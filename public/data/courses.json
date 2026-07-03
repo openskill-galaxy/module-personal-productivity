@@ -1,0 +1,520 @@
+[
+  {
+    "id": "pr-course-01",
+    "order": 1,
+    "slug": "Prod入门",
+    "title": "个人效率入门与自我管理框架",
+    "description": "效率定义、自我管理、学习路线。",
+    "estimatedHours": 4,
+    "difficulty": "easy",
+    "tags": [
+      "个人效率入门与自我管理框架"
+    ],
+    "lessonIds": [
+      "pr-lesson-001",
+      "pr-lesson-002",
+      "pr-lesson-003",
+      "pr-lesson-004",
+      "pr-lesson-005",
+      "pr-lesson-006",
+      "pr-lesson-007",
+      "pr-lesson-008",
+      "pr-lesson-009",
+      "pr-lesson-010",
+      "pr-lesson-011",
+      "pr-lesson-012",
+      "pr-lesson-013"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握时间管理",
+      "能用GTD/OKR",
+      "会做周计划",
+      "养成好习惯"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-course-02",
+    "order": 2,
+    "slug": "GoalLife",
+    "title": "目标管理、人生阶段与年度规划",
+    "description": "人生目标、年度计划、阶段复盘。",
+    "estimatedHours": 8,
+    "difficulty": "easy",
+    "tags": [
+      "目标管理、人生阶段与年度规划"
+    ],
+    "lessonIds": [
+      "pr-lesson-014",
+      "pr-lesson-015",
+      "pr-lesson-016",
+      "pr-lesson-017",
+      "pr-lesson-018",
+      "pr-lesson-019",
+      "pr-lesson-020",
+      "pr-lesson-021",
+      "pr-lesson-022",
+      "pr-lesson-023",
+      "pr-lesson-024",
+      "pr-lesson-025",
+      "pr-lesson-026"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握时间管理",
+      "能用GTD/OKR",
+      "会做周计划",
+      "养成好习惯"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-course-03",
+    "order": 3,
+    "slug": "OKRKPI",
+    "title": "OKR、KPI与个人目标拆解",
+    "description": "OKR方法、关键结果、目标对齐。",
+    "estimatedHours": 8,
+    "difficulty": "medium",
+    "tags": [
+      "OKR、KPI与个人目标拆解"
+    ],
+    "lessonIds": [
+      "pr-lesson-027",
+      "pr-lesson-028",
+      "pr-lesson-029",
+      "pr-lesson-030",
+      "pr-lesson-031",
+      "pr-lesson-032",
+      "pr-lesson-033",
+      "pr-lesson-034",
+      "pr-lesson-035",
+      "pr-lesson-036",
+      "pr-lesson-037",
+      "pr-lesson-038",
+      "pr-lesson-039"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握时间管理",
+      "能用GTD/OKR",
+      "会做周计划",
+      "养成好习惯"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-course-04",
+    "order": 4,
+    "slug": "GTD",
+    "title": "任务收集、任务澄清与GTD",
+    "description": "GTD五步法、收集箱、下一步行动。",
+    "estimatedHours": 10,
+    "difficulty": "medium",
+    "tags": [
+      "任务收集、任务澄清与GTD"
+    ],
+    "lessonIds": [
+      "pr-lesson-040",
+      "pr-lesson-041",
+      "pr-lesson-042",
+      "pr-lesson-043",
+      "pr-lesson-044",
+      "pr-lesson-045",
+      "pr-lesson-046",
+      "pr-lesson-047",
+      "pr-lesson-048",
+      "pr-lesson-049",
+      "pr-lesson-050",
+      "pr-lesson-051",
+      "pr-lesson-052"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握时间管理",
+      "能用GTD/OKR",
+      "会做周计划",
+      "养成好习惯"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-course-05",
+    "order": 5,
+    "slug": "Priority",
+    "title": "优先级判断与四象限法",
+    "description": "重要紧急矩阵、80/20法则、任务排序。",
+    "estimatedHours": 8,
+    "difficulty": "medium",
+    "tags": [
+      "优先级判断与四象限法"
+    ],
+    "lessonIds": [
+      "pr-lesson-053",
+      "pr-lesson-054",
+      "pr-lesson-055",
+      "pr-lesson-056",
+      "pr-lesson-057",
+      "pr-lesson-058",
+      "pr-lesson-059",
+      "pr-lesson-060",
+      "pr-lesson-061",
+      "pr-lesson-062",
+      "pr-lesson-063",
+      "pr-lesson-064",
+      "pr-lesson-065"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握时间管理",
+      "能用GTD/OKR",
+      "会做周计划",
+      "养成好习惯"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-course-06",
+    "order": 6,
+    "slug": "TimeBlock",
+    "title": "时间块、日程表与深度工作",
+    "description": "时间块规划、日历管理、深度工作。",
+    "estimatedHours": 8,
+    "difficulty": "medium",
+    "tags": [
+      "时间块、日程表与深度工作"
+    ],
+    "lessonIds": [
+      "pr-lesson-066",
+      "pr-lesson-067",
+      "pr-lesson-068",
+      "pr-lesson-069",
+      "pr-lesson-070",
+      "pr-lesson-071",
+      "pr-lesson-072",
+      "pr-lesson-073",
+      "pr-lesson-074",
+      "pr-lesson-075",
+      "pr-lesson-076",
+      "pr-lesson-077",
+      "pr-lesson-078"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握时间管理",
+      "能用GTD/OKR",
+      "会做周计划",
+      "养成好习惯"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-course-07",
+    "order": 7,
+    "slug": "WeeklyMonthly",
+    "title": "周计划、月计划与阶段复盘",
+    "description": "周计划结构、月计划模板、复盘方法。",
+    "estimatedHours": 8,
+    "difficulty": "hard",
+    "tags": [
+      "周计划、月计划与阶段复盘"
+    ],
+    "lessonIds": [
+      "pr-lesson-079",
+      "pr-lesson-080",
+      "pr-lesson-081",
+      "pr-lesson-082",
+      "pr-lesson-083",
+      "pr-lesson-084",
+      "pr-lesson-085",
+      "pr-lesson-086",
+      "pr-lesson-087",
+      "pr-lesson-088",
+      "pr-lesson-089",
+      "pr-lesson-090",
+      "pr-lesson-091"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握时间管理",
+      "能用GTD/OKR",
+      "会做周计划",
+      "养成好习惯"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-course-08",
+    "order": 8,
+    "slug": "Habits",
+    "title": "习惯养成、行为设计与打卡系统",
+    "description": "习惯回路、原子习惯、打卡、追踪。",
+    "estimatedHours": 10,
+    "difficulty": "hard",
+    "tags": [
+      "习惯养成、行为设计与打卡系统"
+    ],
+    "lessonIds": [
+      "pr-lesson-092",
+      "pr-lesson-093",
+      "pr-lesson-094",
+      "pr-lesson-095",
+      "pr-lesson-096",
+      "pr-lesson-097",
+      "pr-lesson-098",
+      "pr-lesson-099",
+      "pr-lesson-100",
+      "pr-lesson-101",
+      "pr-lesson-102",
+      "pr-lesson-103",
+      "pr-lesson-104"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握时间管理",
+      "能用GTD/OKR",
+      "会做周计划",
+      "养成好习惯"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-course-09",
+    "order": 9,
+    "slug": "Energy",
+    "title": "精力管理、睡眠、运动与节奏",
+    "description": "精力曲线、休息节奏、身体管理。",
+    "estimatedHours": 8,
+    "difficulty": "hard",
+    "tags": [
+      "精力管理、睡眠、运动与节奏"
+    ],
+    "lessonIds": [
+      "pr-lesson-105",
+      "pr-lesson-106",
+      "pr-lesson-107",
+      "pr-lesson-108",
+      "pr-lesson-109",
+      "pr-lesson-110",
+      "pr-lesson-111",
+      "pr-lesson-112",
+      "pr-lesson-113",
+      "pr-lesson-114",
+      "pr-lesson-115",
+      "pr-lesson-116",
+      "pr-lesson-117"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握时间管理",
+      "能用GTD/OKR",
+      "会做周计划",
+      "养成好习惯"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-course-10",
+    "order": 10,
+    "slug": "Procrastination",
+    "title": "拖延、分心与注意力修复",
+    "description": "拖延原因、分心源、注意力恢复。",
+    "estimatedHours": 8,
+    "difficulty": "hard",
+    "tags": [
+      "拖延、分心与注意力修复"
+    ],
+    "lessonIds": [
+      "pr-lesson-118",
+      "pr-lesson-119",
+      "pr-lesson-120",
+      "pr-lesson-121",
+      "pr-lesson-122",
+      "pr-lesson-123",
+      "pr-lesson-124",
+      "pr-lesson-125",
+      "pr-lesson-126",
+      "pr-lesson-127",
+      "pr-lesson-128",
+      "pr-lesson-129",
+      "pr-lesson-130"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握时间管理",
+      "能用GTD/OKR",
+      "会做周计划",
+      "养成好习惯"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-course-11",
+    "order": 11,
+    "slug": "Kanban",
+    "title": "个人项目管理与看板方法",
+    "description": "看板系统、泳道、WIP限制。",
+    "estimatedHours": 8,
+    "difficulty": "hard",
+    "tags": [
+      "个人项目管理与看板方法"
+    ],
+    "lessonIds": [
+      "pr-lesson-131",
+      "pr-lesson-132",
+      "pr-lesson-133",
+      "pr-lesson-134",
+      "pr-lesson-135",
+      "pr-lesson-136",
+      "pr-lesson-137",
+      "pr-lesson-138",
+      "pr-lesson-139",
+      "pr-lesson-140",
+      "pr-lesson-141",
+      "pr-lesson-142",
+      "pr-lesson-143"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握时间管理",
+      "能用GTD/OKR",
+      "会做周计划",
+      "养成好习惯"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-course-12",
+    "order": 12,
+    "slug": "Balance",
+    "title": "学业、求职、项目与生活平衡",
+    "description": "多重角色、时间分配、平衡策略。",
+    "estimatedHours": 8,
+    "difficulty": "hard",
+    "tags": [
+      "学业、求职、项目与生活平衡"
+    ],
+    "lessonIds": [
+      "pr-lesson-144",
+      "pr-lesson-145",
+      "pr-lesson-146",
+      "pr-lesson-147",
+      "pr-lesson-148",
+      "pr-lesson-149",
+      "pr-lesson-150",
+      "pr-lesson-151",
+      "pr-lesson-152",
+      "pr-lesson-153",
+      "pr-lesson-154",
+      "pr-lesson-155",
+      "pr-lesson-156"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握时间管理",
+      "能用GTD/OKR",
+      "会做周计划",
+      "养成好习惯"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-course-13",
+    "order": 13,
+    "slug": "Tools",
+    "title": "数字工具、自动化与效率系统",
+    "description": "Notion/Todoist/日历、自动化工作流。",
+    "estimatedHours": 8,
+    "difficulty": "hard",
+    "tags": [
+      "数字工具、自动化与效率系统"
+    ],
+    "lessonIds": [
+      "pr-lesson-157",
+      "pr-lesson-158",
+      "pr-lesson-159",
+      "pr-lesson-160",
+      "pr-lesson-161",
+      "pr-lesson-162",
+      "pr-lesson-163",
+      "pr-lesson-164",
+      "pr-lesson-165",
+      "pr-lesson-166",
+      "pr-lesson-167",
+      "pr-lesson-168",
+      "pr-lesson-169"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握时间管理",
+      "能用GTD/OKR",
+      "会做周计划",
+      "养成好习惯"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-course-14",
+    "order": 14,
+    "slug": "LongTermGrowth",
+    "title": "自我规划综合案例与长期成长系统",
+    "description": "长期规划、成长系统、年度复盘。",
+    "estimatedHours": 8,
+    "difficulty": "hard",
+    "tags": [
+      "自我规划综合案例与长期成长系统"
+    ],
+    "lessonIds": [
+      "pr-lesson-170",
+      "pr-lesson-171",
+      "pr-lesson-172",
+      "pr-lesson-173",
+      "pr-lesson-174",
+      "pr-lesson-175",
+      "pr-lesson-176",
+      "pr-lesson-177",
+      "pr-lesson-178",
+      "pr-lesson-179",
+      "pr-lesson-180",
+      "pr-lesson-181",
+      "pr-lesson-182"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "掌握时间管理",
+      "能用GTD/OKR",
+      "会做周计划",
+      "养成好习惯"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  }
+]

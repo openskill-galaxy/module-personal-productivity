@@ -1,0 +1,9882 @@
+[
+  {
+    "id": "pr-case-001",
+    "title": "大学生一周计划案例1",
+    "description": "通过大学生一周计划掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002690",
+      "pr-q-001219",
+      "pr-q-003191"
+    ],
+    "tags": [
+      "大学生一周计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-002",
+    "title": "期末复习计划案例2",
+    "description": "通过期末复习计划掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000026",
+      "pr-q-001684",
+      "pr-q-000144"
+    ],
+    "tags": [
+      "期末复习计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-003",
+    "title": "考研长期计划案例3",
+    "description": "通过考研长期计划掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002500",
+      "pr-q-002157",
+      "pr-q-002534"
+    ],
+    "tags": [
+      "考研长期计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-004",
+    "title": "编程学习日程案例4",
+    "description": "通过编程学习日程掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000701",
+      "pr-q-000291",
+      "pr-q-002052"
+    ],
+    "tags": [
+      "编程学习日程"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-005",
+    "title": "项目开发排期案例5",
+    "description": "通过项目开发排期掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000793",
+      "pr-q-001487",
+      "pr-q-000046"
+    ],
+    "tags": [
+      "项目开发排期"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-006",
+    "title": "求职投递节奏案例6",
+    "description": "通过求职投递节奏掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000738",
+      "pr-q-001208",
+      "pr-q-001052"
+    ],
+    "tags": [
+      "求职投递节奏"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-007",
+    "title": "面试复盘案例7",
+    "description": "通过面试复盘掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001671",
+      "pr-q-000391",
+      "pr-q-002194"
+    ],
+    "tags": [
+      "面试复盘"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-008",
+    "title": "拖延修复案例8",
+    "description": "通过拖延修复掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-003138",
+      "pr-q-000585",
+      "pr-q-001920"
+    ],
+    "tags": [
+      "拖延修复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-009",
+    "title": "熬夜修复案例9",
+    "description": "通过熬夜修复掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000983",
+      "pr-q-000779",
+      "pr-q-002316"
+    ],
+    "tags": [
+      "熬夜修复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-010",
+    "title": "周计划模板案例10",
+    "description": "通过周计划模板掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002001",
+      "pr-q-002121",
+      "pr-q-002871"
+    ],
+    "tags": [
+      "周计划模板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-011",
+    "title": "月计划模板案例11",
+    "description": "通过月计划模板掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001911",
+      "pr-q-001475",
+      "pr-q-001536"
+    ],
+    "tags": [
+      "月计划模板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-012",
+    "title": "个人看板案例12",
+    "description": "通过个人看板掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000936",
+      "pr-q-002431",
+      "pr-q-001984"
+    ],
+    "tags": [
+      "个人看板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-013",
+    "title": "GTD收集箱案例13",
+    "description": "通过GTD收集箱掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002191",
+      "pr-q-002615",
+      "pr-q-000012"
+    ],
+    "tags": [
+      "GTD收集箱"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-014",
+    "title": "OKR设定案例14",
+    "description": "通过OKR设定掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000598",
+      "pr-q-000780",
+      "pr-q-003387"
+    ],
+    "tags": [
+      "OKR设定"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-015",
+    "title": "习惯打卡案例15",
+    "description": "通过习惯打卡掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001412",
+      "pr-q-001281",
+      "pr-q-002565"
+    ],
+    "tags": [
+      "习惯打卡"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-016",
+    "title": "时间块安排案例16",
+    "description": "通过时间块安排掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-003253",
+      "pr-q-001435",
+      "pr-q-002709"
+    ],
+    "tags": [
+      "时间块安排"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-017",
+    "title": "深度工作案例17",
+    "description": "通过深度工作掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001644",
+      "pr-q-001023",
+      "pr-q-000321"
+    ],
+    "tags": [
+      "深度工作"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-018",
+    "title": "自动化效率系统案例18",
+    "description": "通过自动化效率系统掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001709",
+      "pr-q-000372",
+      "pr-q-001178"
+    ],
+    "tags": [
+      "自动化效率系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-019",
+    "title": "大学生一周计划案例19",
+    "description": "通过大学生一周计划掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-003315",
+      "pr-q-000671",
+      "pr-q-003079"
+    ],
+    "tags": [
+      "大学生一周计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-020",
+    "title": "期末复习计划案例20",
+    "description": "通过期末复习计划掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000800",
+      "pr-q-000032",
+      "pr-q-003204"
+    ],
+    "tags": [
+      "期末复习计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-021",
+    "title": "考研长期计划案例21",
+    "description": "通过考研长期计划掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000190",
+      "pr-q-003363",
+      "pr-q-001006"
+    ],
+    "tags": [
+      "考研长期计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-022",
+    "title": "编程学习日程案例22",
+    "description": "通过编程学习日程掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002603",
+      "pr-q-001166",
+      "pr-q-002297"
+    ],
+    "tags": [
+      "编程学习日程"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-023",
+    "title": "项目开发排期案例23",
+    "description": "通过项目开发排期掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000447",
+      "pr-q-000822",
+      "pr-q-002513"
+    ],
+    "tags": [
+      "项目开发排期"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-024",
+    "title": "求职投递节奏案例24",
+    "description": "通过求职投递节奏掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-003413",
+      "pr-q-003210",
+      "pr-q-000833"
+    ],
+    "tags": [
+      "求职投递节奏"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-025",
+    "title": "面试复盘案例25",
+    "description": "通过面试复盘掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002079",
+      "pr-q-002985",
+      "pr-q-003047"
+    ],
+    "tags": [
+      "面试复盘"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-026",
+    "title": "拖延修复案例26",
+    "description": "通过拖延修复掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-003333",
+      "pr-q-002118",
+      "pr-q-001837"
+    ],
+    "tags": [
+      "拖延修复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-027",
+    "title": "熬夜修复案例27",
+    "description": "通过熬夜修复掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001371",
+      "pr-q-002656",
+      "pr-q-002238"
+    ],
+    "tags": [
+      "熬夜修复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-028",
+    "title": "周计划模板案例28",
+    "description": "通过周计划模板掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001707",
+      "pr-q-001855",
+      "pr-q-002955"
+    ],
+    "tags": [
+      "周计划模板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-029",
+    "title": "月计划模板案例29",
+    "description": "通过月计划模板掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-003054",
+      "pr-q-003086",
+      "pr-q-002976"
+    ],
+    "tags": [
+      "月计划模板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-030",
+    "title": "个人看板案例30",
+    "description": "通过个人看板掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001364",
+      "pr-q-003195",
+      "pr-q-001782"
+    ],
+    "tags": [
+      "个人看板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-031",
+    "title": "GTD收集箱案例31",
+    "description": "通过GTD收集箱掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000999",
+      "pr-q-001015",
+      "pr-q-000945"
+    ],
+    "tags": [
+      "GTD收集箱"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-032",
+    "title": "OKR设定案例32",
+    "description": "通过OKR设定掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001233",
+      "pr-q-000127",
+      "pr-q-001040"
+    ],
+    "tags": [
+      "OKR设定"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-033",
+    "title": "习惯打卡案例33",
+    "description": "通过习惯打卡掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001350",
+      "pr-q-001944",
+      "pr-q-000616"
+    ],
+    "tags": [
+      "习惯打卡"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-034",
+    "title": "时间块安排案例34",
+    "description": "通过时间块安排掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002020",
+      "pr-q-001927",
+      "pr-q-000146"
+    ],
+    "tags": [
+      "时间块安排"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-035",
+    "title": "深度工作案例35",
+    "description": "通过深度工作掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002369",
+      "pr-q-003197",
+      "pr-q-003003"
+    ],
+    "tags": [
+      "深度工作"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-036",
+    "title": "自动化效率系统案例36",
+    "description": "通过自动化效率系统掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002608",
+      "pr-q-001477",
+      "pr-q-000615"
+    ],
+    "tags": [
+      "自动化效率系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-037",
+    "title": "大学生一周计划案例37",
+    "description": "通过大学生一周计划掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000093",
+      "pr-q-000134",
+      "pr-q-001337"
+    ],
+    "tags": [
+      "大学生一周计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-038",
+    "title": "期末复习计划案例38",
+    "description": "通过期末复习计划掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000833",
+      "pr-q-001447",
+      "pr-q-003244"
+    ],
+    "tags": [
+      "期末复习计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-039",
+    "title": "考研长期计划案例39",
+    "description": "通过考研长期计划掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001488",
+      "pr-q-001153",
+      "pr-q-000078"
+    ],
+    "tags": [
+      "考研长期计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-040",
+    "title": "编程学习日程案例40",
+    "description": "通过编程学习日程掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000252",
+      "pr-q-000248",
+      "pr-q-001874"
+    ],
+    "tags": [
+      "编程学习日程"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-041",
+    "title": "项目开发排期案例41",
+    "description": "通过项目开发排期掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001240",
+      "pr-q-000310",
+      "pr-q-002130"
+    ],
+    "tags": [
+      "项目开发排期"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-042",
+    "title": "求职投递节奏案例42",
+    "description": "通过求职投递节奏掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002025",
+      "pr-q-002843",
+      "pr-q-002807"
+    ],
+    "tags": [
+      "求职投递节奏"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-043",
+    "title": "面试复盘案例43",
+    "description": "通过面试复盘掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001752",
+      "pr-q-001794",
+      "pr-q-003352"
+    ],
+    "tags": [
+      "面试复盘"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-044",
+    "title": "拖延修复案例44",
+    "description": "通过拖延修复掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001873",
+      "pr-q-002558",
+      "pr-q-000291"
+    ],
+    "tags": [
+      "拖延修复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-045",
+    "title": "熬夜修复案例45",
+    "description": "通过熬夜修复掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-003018",
+      "pr-q-001138",
+      "pr-q-002268"
+    ],
+    "tags": [
+      "熬夜修复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-046",
+    "title": "周计划模板案例46",
+    "description": "通过周计划模板掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002422",
+      "pr-q-002921",
+      "pr-q-000596"
+    ],
+    "tags": [
+      "周计划模板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-047",
+    "title": "月计划模板案例47",
+    "description": "通过月计划模板掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001903",
+      "pr-q-000416",
+      "pr-q-001399"
+    ],
+    "tags": [
+      "月计划模板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-048",
+    "title": "个人看板案例48",
+    "description": "通过个人看板掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000685",
+      "pr-q-002763",
+      "pr-q-003427"
+    ],
+    "tags": [
+      "个人看板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-049",
+    "title": "GTD收集箱案例49",
+    "description": "通过GTD收集箱掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-003436",
+      "pr-q-002620",
+      "pr-q-001208"
+    ],
+    "tags": [
+      "GTD收集箱"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-050",
+    "title": "OKR设定案例50",
+    "description": "通过OKR设定掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001246",
+      "pr-q-002941",
+      "pr-q-001218"
+    ],
+    "tags": [
+      "OKR设定"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-051",
+    "title": "习惯打卡案例51",
+    "description": "通过习惯打卡掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-003197",
+      "pr-q-001102",
+      "pr-q-002884"
+    ],
+    "tags": [
+      "习惯打卡"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-052",
+    "title": "时间块安排案例52",
+    "description": "通过时间块安排掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002591",
+      "pr-q-002028",
+      "pr-q-001838"
+    ],
+    "tags": [
+      "时间块安排"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-053",
+    "title": "深度工作案例53",
+    "description": "通过深度工作掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001099",
+      "pr-q-001560",
+      "pr-q-000138"
+    ],
+    "tags": [
+      "深度工作"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-054",
+    "title": "自动化效率系统案例54",
+    "description": "通过自动化效率系统掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001084",
+      "pr-q-002355",
+      "pr-q-003065"
+    ],
+    "tags": [
+      "自动化效率系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-055",
+    "title": "大学生一周计划案例55",
+    "description": "通过大学生一周计划掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001221",
+      "pr-q-000373",
+      "pr-q-002828"
+    ],
+    "tags": [
+      "大学生一周计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-056",
+    "title": "期末复习计划案例56",
+    "description": "通过期末复习计划掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001369",
+      "pr-q-003175",
+      "pr-q-002439"
+    ],
+    "tags": [
+      "期末复习计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-057",
+    "title": "考研长期计划案例57",
+    "description": "通过考研长期计划掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000946",
+      "pr-q-000415",
+      "pr-q-003097"
+    ],
+    "tags": [
+      "考研长期计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-058",
+    "title": "编程学习日程案例58",
+    "description": "通过编程学习日程掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002480",
+      "pr-q-003281",
+      "pr-q-001229"
+    ],
+    "tags": [
+      "编程学习日程"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-059",
+    "title": "项目开发排期案例59",
+    "description": "通过项目开发排期掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001178",
+      "pr-q-002693",
+      "pr-q-001180"
+    ],
+    "tags": [
+      "项目开发排期"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-060",
+    "title": "求职投递节奏案例60",
+    "description": "通过求职投递节奏掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000913",
+      "pr-q-001623",
+      "pr-q-001821"
+    ],
+    "tags": [
+      "求职投递节奏"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-061",
+    "title": "面试复盘案例61",
+    "description": "通过面试复盘掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001188",
+      "pr-q-000430",
+      "pr-q-002967"
+    ],
+    "tags": [
+      "面试复盘"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-062",
+    "title": "拖延修复案例62",
+    "description": "通过拖延修复掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000895",
+      "pr-q-002877",
+      "pr-q-001375"
+    ],
+    "tags": [
+      "拖延修复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-063",
+    "title": "熬夜修复案例63",
+    "description": "通过熬夜修复掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001152",
+      "pr-q-001521",
+      "pr-q-002891"
+    ],
+    "tags": [
+      "熬夜修复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-064",
+    "title": "周计划模板案例64",
+    "description": "通过周计划模板掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002988",
+      "pr-q-000126",
+      "pr-q-002296"
+    ],
+    "tags": [
+      "周计划模板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-065",
+    "title": "月计划模板案例65",
+    "description": "通过月计划模板掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-003302",
+      "pr-q-003414",
+      "pr-q-003009"
+    ],
+    "tags": [
+      "月计划模板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-066",
+    "title": "个人看板案例66",
+    "description": "通过个人看板掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001879",
+      "pr-q-001489",
+      "pr-q-003380"
+    ],
+    "tags": [
+      "个人看板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-067",
+    "title": "GTD收集箱案例67",
+    "description": "通过GTD收集箱掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000684",
+      "pr-q-002410",
+      "pr-q-002198"
+    ],
+    "tags": [
+      "GTD收集箱"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-068",
+    "title": "OKR设定案例68",
+    "description": "通过OKR设定掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002686",
+      "pr-q-000195",
+      "pr-q-003385"
+    ],
+    "tags": [
+      "OKR设定"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-069",
+    "title": "习惯打卡案例69",
+    "description": "通过习惯打卡掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000325",
+      "pr-q-001188",
+      "pr-q-002430"
+    ],
+    "tags": [
+      "习惯打卡"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-070",
+    "title": "时间块安排案例70",
+    "description": "通过时间块安排掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000956",
+      "pr-q-000298",
+      "pr-q-001943"
+    ],
+    "tags": [
+      "时间块安排"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-071",
+    "title": "深度工作案例71",
+    "description": "通过深度工作掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-003398",
+      "pr-q-000931",
+      "pr-q-001219"
+    ],
+    "tags": [
+      "深度工作"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-072",
+    "title": "自动化效率系统案例72",
+    "description": "通过自动化效率系统掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000827",
+      "pr-q-002587",
+      "pr-q-000468"
+    ],
+    "tags": [
+      "自动化效率系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-073",
+    "title": "大学生一周计划案例73",
+    "description": "通过大学生一周计划掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002145",
+      "pr-q-001086",
+      "pr-q-002976"
+    ],
+    "tags": [
+      "大学生一周计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-074",
+    "title": "期末复习计划案例74",
+    "description": "通过期末复习计划掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002874",
+      "pr-q-002915",
+      "pr-q-000539"
+    ],
+    "tags": [
+      "期末复习计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-075",
+    "title": "考研长期计划案例75",
+    "description": "通过考研长期计划掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001353",
+      "pr-q-001903",
+      "pr-q-002452"
+    ],
+    "tags": [
+      "考研长期计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-076",
+    "title": "编程学习日程案例76",
+    "description": "通过编程学习日程掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000164",
+      "pr-q-003298",
+      "pr-q-000151"
+    ],
+    "tags": [
+      "编程学习日程"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-077",
+    "title": "项目开发排期案例77",
+    "description": "通过项目开发排期掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002730",
+      "pr-q-000452",
+      "pr-q-003358"
+    ],
+    "tags": [
+      "项目开发排期"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-078",
+    "title": "求职投递节奏案例78",
+    "description": "通过求职投递节奏掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002784",
+      "pr-q-002887",
+      "pr-q-001977"
+    ],
+    "tags": [
+      "求职投递节奏"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-079",
+    "title": "面试复盘案例79",
+    "description": "通过面试复盘掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002029",
+      "pr-q-001325",
+      "pr-q-001026"
+    ],
+    "tags": [
+      "面试复盘"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-080",
+    "title": "拖延修复案例80",
+    "description": "通过拖延修复掌握效率",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000856",
+      "pr-q-000573",
+      "pr-q-002280"
+    ],
+    "tags": [
+      "拖延修复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-081",
+    "title": "熬夜修复案例81",
+    "description": "通过熬夜修复掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000624",
+      "pr-q-001573",
+      "pr-q-003257"
+    ],
+    "tags": [
+      "熬夜修复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-082",
+    "title": "周计划模板案例82",
+    "description": "通过周计划模板掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000306",
+      "pr-q-002768",
+      "pr-q-000304"
+    ],
+    "tags": [
+      "周计划模板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-083",
+    "title": "月计划模板案例83",
+    "description": "通过月计划模板掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001605",
+      "pr-q-001992",
+      "pr-q-003248"
+    ],
+    "tags": [
+      "月计划模板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-084",
+    "title": "个人看板案例84",
+    "description": "通过个人看板掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-003205",
+      "pr-q-001170",
+      "pr-q-002277"
+    ],
+    "tags": [
+      "个人看板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-085",
+    "title": "GTD收集箱案例85",
+    "description": "通过GTD收集箱掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000927",
+      "pr-q-003084",
+      "pr-q-000727"
+    ],
+    "tags": [
+      "GTD收集箱"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-086",
+    "title": "OKR设定案例86",
+    "description": "通过OKR设定掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001393",
+      "pr-q-002922",
+      "pr-q-000774"
+    ],
+    "tags": [
+      "OKR设定"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-087",
+    "title": "习惯打卡案例87",
+    "description": "通过习惯打卡掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-003414",
+      "pr-q-001014",
+      "pr-q-002380"
+    ],
+    "tags": [
+      "习惯打卡"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-088",
+    "title": "时间块安排案例88",
+    "description": "通过时间块安排掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001177",
+      "pr-q-002745",
+      "pr-q-001697"
+    ],
+    "tags": [
+      "时间块安排"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-089",
+    "title": "深度工作案例89",
+    "description": "通过深度工作掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001806",
+      "pr-q-000451",
+      "pr-q-000121"
+    ],
+    "tags": [
+      "深度工作"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-090",
+    "title": "自动化效率系统案例90",
+    "description": "通过自动化效率系统掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-003126",
+      "pr-q-002603",
+      "pr-q-002852"
+    ],
+    "tags": [
+      "自动化效率系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-091",
+    "title": "大学生一周计划案例91",
+    "description": "通过大学生一周计划掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001594",
+      "pr-q-000625",
+      "pr-q-000112"
+    ],
+    "tags": [
+      "大学生一周计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-092",
+    "title": "期末复习计划案例92",
+    "description": "通过期末复习计划掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002720",
+      "pr-q-002521",
+      "pr-q-000843"
+    ],
+    "tags": [
+      "期末复习计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-093",
+    "title": "考研长期计划案例93",
+    "description": "通过考研长期计划掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000353",
+      "pr-q-003430",
+      "pr-q-000204"
+    ],
+    "tags": [
+      "考研长期计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-094",
+    "title": "编程学习日程案例94",
+    "description": "通过编程学习日程掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002309",
+      "pr-q-002095",
+      "pr-q-003036"
+    ],
+    "tags": [
+      "编程学习日程"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-095",
+    "title": "项目开发排期案例95",
+    "description": "通过项目开发排期掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001688",
+      "pr-q-001517",
+      "pr-q-002518"
+    ],
+    "tags": [
+      "项目开发排期"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-096",
+    "title": "求职投递节奏案例96",
+    "description": "通过求职投递节奏掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-003468",
+      "pr-q-002539",
+      "pr-q-001952"
+    ],
+    "tags": [
+      "求职投递节奏"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-097",
+    "title": "面试复盘案例97",
+    "description": "通过面试复盘掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001843",
+      "pr-q-001628",
+      "pr-q-001076"
+    ],
+    "tags": [
+      "面试复盘"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-098",
+    "title": "拖延修复案例98",
+    "description": "通过拖延修复掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000382",
+      "pr-q-000601",
+      "pr-q-000995"
+    ],
+    "tags": [
+      "拖延修复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-099",
+    "title": "熬夜修复案例99",
+    "description": "通过熬夜修复掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002065",
+      "pr-q-000782",
+      "pr-q-000480"
+    ],
+    "tags": [
+      "熬夜修复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-100",
+    "title": "周计划模板案例100",
+    "description": "通过周计划模板掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-003288",
+      "pr-q-001252",
+      "pr-q-000799"
+    ],
+    "tags": [
+      "周计划模板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-101",
+    "title": "月计划模板案例101",
+    "description": "通过月计划模板掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002459",
+      "pr-q-000821",
+      "pr-q-003187"
+    ],
+    "tags": [
+      "月计划模板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-102",
+    "title": "个人看板案例102",
+    "description": "通过个人看板掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000563",
+      "pr-q-002498",
+      "pr-q-001150"
+    ],
+    "tags": [
+      "个人看板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-103",
+    "title": "GTD收集箱案例103",
+    "description": "通过GTD收集箱掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000436",
+      "pr-q-001346",
+      "pr-q-001632"
+    ],
+    "tags": [
+      "GTD收集箱"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-104",
+    "title": "OKR设定案例104",
+    "description": "通过OKR设定掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001286",
+      "pr-q-002807",
+      "pr-q-000703"
+    ],
+    "tags": [
+      "OKR设定"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-105",
+    "title": "习惯打卡案例105",
+    "description": "通过习惯打卡掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000691",
+      "pr-q-002180",
+      "pr-q-000677"
+    ],
+    "tags": [
+      "习惯打卡"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-106",
+    "title": "时间块安排案例106",
+    "description": "通过时间块安排掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001008",
+      "pr-q-000636",
+      "pr-q-001313"
+    ],
+    "tags": [
+      "时间块安排"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-107",
+    "title": "深度工作案例107",
+    "description": "通过深度工作掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001388",
+      "pr-q-000846",
+      "pr-q-000014"
+    ],
+    "tags": [
+      "深度工作"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-108",
+    "title": "自动化效率系统案例108",
+    "description": "通过自动化效率系统掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002698",
+      "pr-q-002991",
+      "pr-q-001471"
+    ],
+    "tags": [
+      "自动化效率系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-109",
+    "title": "大学生一周计划案例109",
+    "description": "通过大学生一周计划掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001875",
+      "pr-q-002790",
+      "pr-q-002507"
+    ],
+    "tags": [
+      "大学生一周计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-110",
+    "title": "期末复习计划案例110",
+    "description": "通过期末复习计划掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002650",
+      "pr-q-001249",
+      "pr-q-002819"
+    ],
+    "tags": [
+      "期末复习计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-111",
+    "title": "考研长期计划案例111",
+    "description": "通过考研长期计划掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001767",
+      "pr-q-002209",
+      "pr-q-002050"
+    ],
+    "tags": [
+      "考研长期计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-112",
+    "title": "编程学习日程案例112",
+    "description": "通过编程学习日程掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000687",
+      "pr-q-001398",
+      "pr-q-002616"
+    ],
+    "tags": [
+      "编程学习日程"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-113",
+    "title": "项目开发排期案例113",
+    "description": "通过项目开发排期掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001989",
+      "pr-q-000405",
+      "pr-q-002323"
+    ],
+    "tags": [
+      "项目开发排期"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-114",
+    "title": "求职投递节奏案例114",
+    "description": "通过求职投递节奏掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000864",
+      "pr-q-000995",
+      "pr-q-002300"
+    ],
+    "tags": [
+      "求职投递节奏"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-115",
+    "title": "面试复盘案例115",
+    "description": "通过面试复盘掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-003415",
+      "pr-q-000159",
+      "pr-q-002657"
+    ],
+    "tags": [
+      "面试复盘"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-116",
+    "title": "拖延修复案例116",
+    "description": "通过拖延修复掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000183",
+      "pr-q-001038",
+      "pr-q-000918"
+    ],
+    "tags": [
+      "拖延修复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-117",
+    "title": "熬夜修复案例117",
+    "description": "通过熬夜修复掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001236",
+      "pr-q-003314",
+      "pr-q-000800"
+    ],
+    "tags": [
+      "熬夜修复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-118",
+    "title": "周计划模板案例118",
+    "description": "通过周计划模板掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000020",
+      "pr-q-000145",
+      "pr-q-000468"
+    ],
+    "tags": [
+      "周计划模板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-119",
+    "title": "月计划模板案例119",
+    "description": "通过月计划模板掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-003418",
+      "pr-q-002920",
+      "pr-q-000092"
+    ],
+    "tags": [
+      "月计划模板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-120",
+    "title": "个人看板案例120",
+    "description": "通过个人看板掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002200",
+      "pr-q-003029",
+      "pr-q-000406"
+    ],
+    "tags": [
+      "个人看板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-121",
+    "title": "GTD收集箱案例121",
+    "description": "通过GTD收集箱掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001954",
+      "pr-q-000259",
+      "pr-q-001252"
+    ],
+    "tags": [
+      "GTD收集箱"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-122",
+    "title": "OKR设定案例122",
+    "description": "通过OKR设定掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002078",
+      "pr-q-002565",
+      "pr-q-000384"
+    ],
+    "tags": [
+      "OKR设定"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-123",
+    "title": "习惯打卡案例123",
+    "description": "通过习惯打卡掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002662",
+      "pr-q-000128",
+      "pr-q-002884"
+    ],
+    "tags": [
+      "习惯打卡"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-124",
+    "title": "时间块安排案例124",
+    "description": "通过时间块安排掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-003248",
+      "pr-q-000735",
+      "pr-q-002011"
+    ],
+    "tags": [
+      "时间块安排"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-125",
+    "title": "深度工作案例125",
+    "description": "通过深度工作掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002300",
+      "pr-q-002026",
+      "pr-q-001051"
+    ],
+    "tags": [
+      "深度工作"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-126",
+    "title": "自动化效率系统案例126",
+    "description": "通过自动化效率系统掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-003266",
+      "pr-q-002323",
+      "pr-q-003211"
+    ],
+    "tags": [
+      "自动化效率系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-127",
+    "title": "大学生一周计划案例127",
+    "description": "通过大学生一周计划掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-003385",
+      "pr-q-002829",
+      "pr-q-002818"
+    ],
+    "tags": [
+      "大学生一周计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-128",
+    "title": "期末复习计划案例128",
+    "description": "通过期末复习计划掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001652",
+      "pr-q-000045",
+      "pr-q-002868"
+    ],
+    "tags": [
+      "期末复习计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-129",
+    "title": "考研长期计划案例129",
+    "description": "通过考研长期计划掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000764",
+      "pr-q-003122",
+      "pr-q-003193"
+    ],
+    "tags": [
+      "考研长期计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-130",
+    "title": "编程学习日程案例130",
+    "description": "通过编程学习日程掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000347",
+      "pr-q-002572",
+      "pr-q-001054"
+    ],
+    "tags": [
+      "编程学习日程"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-131",
+    "title": "项目开发排期案例131",
+    "description": "通过项目开发排期掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001002",
+      "pr-q-001517",
+      "pr-q-002565"
+    ],
+    "tags": [
+      "项目开发排期"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-132",
+    "title": "求职投递节奏案例132",
+    "description": "通过求职投递节奏掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002550",
+      "pr-q-003315",
+      "pr-q-001562"
+    ],
+    "tags": [
+      "求职投递节奏"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-133",
+    "title": "面试复盘案例133",
+    "description": "通过面试复盘掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002821",
+      "pr-q-002480",
+      "pr-q-000104"
+    ],
+    "tags": [
+      "面试复盘"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-134",
+    "title": "拖延修复案例134",
+    "description": "通过拖延修复掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000089",
+      "pr-q-000410",
+      "pr-q-000352"
+    ],
+    "tags": [
+      "拖延修复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-135",
+    "title": "熬夜修复案例135",
+    "description": "通过熬夜修复掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001302",
+      "pr-q-001371",
+      "pr-q-003492"
+    ],
+    "tags": [
+      "熬夜修复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-136",
+    "title": "周计划模板案例136",
+    "description": "通过周计划模板掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002145",
+      "pr-q-001306",
+      "pr-q-002105"
+    ],
+    "tags": [
+      "周计划模板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-137",
+    "title": "月计划模板案例137",
+    "description": "通过月计划模板掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001021",
+      "pr-q-000850",
+      "pr-q-000465"
+    ],
+    "tags": [
+      "月计划模板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-138",
+    "title": "个人看板案例138",
+    "description": "通过个人看板掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000321",
+      "pr-q-002795",
+      "pr-q-001295"
+    ],
+    "tags": [
+      "个人看板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-139",
+    "title": "GTD收集箱案例139",
+    "description": "通过GTD收集箱掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001501",
+      "pr-q-003447",
+      "pr-q-000953"
+    ],
+    "tags": [
+      "GTD收集箱"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-140",
+    "title": "OKR设定案例140",
+    "description": "通过OKR设定掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000152",
+      "pr-q-000806",
+      "pr-q-000620"
+    ],
+    "tags": [
+      "OKR设定"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-141",
+    "title": "习惯打卡案例141",
+    "description": "通过习惯打卡掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000418",
+      "pr-q-001143",
+      "pr-q-001201"
+    ],
+    "tags": [
+      "习惯打卡"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-142",
+    "title": "时间块安排案例142",
+    "description": "通过时间块安排掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-003013",
+      "pr-q-003233",
+      "pr-q-000694"
+    ],
+    "tags": [
+      "时间块安排"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-143",
+    "title": "深度工作案例143",
+    "description": "通过深度工作掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-003477",
+      "pr-q-002517",
+      "pr-q-001663"
+    ],
+    "tags": [
+      "深度工作"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-144",
+    "title": "自动化效率系统案例144",
+    "description": "通过自动化效率系统掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001002",
+      "pr-q-002805",
+      "pr-q-000512"
+    ],
+    "tags": [
+      "自动化效率系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-145",
+    "title": "大学生一周计划案例145",
+    "description": "通过大学生一周计划掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001943",
+      "pr-q-000801",
+      "pr-q-001566"
+    ],
+    "tags": [
+      "大学生一周计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-146",
+    "title": "期末复习计划案例146",
+    "description": "通过期末复习计划掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001575",
+      "pr-q-003438",
+      "pr-q-002195"
+    ],
+    "tags": [
+      "期末复习计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-147",
+    "title": "考研长期计划案例147",
+    "description": "通过考研长期计划掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002636",
+      "pr-q-001914",
+      "pr-q-000694"
+    ],
+    "tags": [
+      "考研长期计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-148",
+    "title": "编程学习日程案例148",
+    "description": "通过编程学习日程掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001168",
+      "pr-q-001699",
+      "pr-q-001642"
+    ],
+    "tags": [
+      "编程学习日程"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-149",
+    "title": "项目开发排期案例149",
+    "description": "通过项目开发排期掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002907",
+      "pr-q-001986",
+      "pr-q-002600"
+    ],
+    "tags": [
+      "项目开发排期"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-150",
+    "title": "求职投递节奏案例150",
+    "description": "通过求职投递节奏掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002753",
+      "pr-q-000576",
+      "pr-q-001148"
+    ],
+    "tags": [
+      "求职投递节奏"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-151",
+    "title": "面试复盘案例151",
+    "description": "通过面试复盘掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000666",
+      "pr-q-003102",
+      "pr-q-000568"
+    ],
+    "tags": [
+      "面试复盘"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-152",
+    "title": "拖延修复案例152",
+    "description": "通过拖延修复掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001859",
+      "pr-q-002786",
+      "pr-q-002690"
+    ],
+    "tags": [
+      "拖延修复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-153",
+    "title": "熬夜修复案例153",
+    "description": "通过熬夜修复掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001815",
+      "pr-q-002980",
+      "pr-q-003372"
+    ],
+    "tags": [
+      "熬夜修复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-154",
+    "title": "周计划模板案例154",
+    "description": "通过周计划模板掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001044",
+      "pr-q-000291",
+      "pr-q-001812"
+    ],
+    "tags": [
+      "周计划模板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-155",
+    "title": "月计划模板案例155",
+    "description": "通过月计划模板掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000815",
+      "pr-q-001598",
+      "pr-q-001698"
+    ],
+    "tags": [
+      "月计划模板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-156",
+    "title": "个人看板案例156",
+    "description": "通过个人看板掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-003261",
+      "pr-q-001335",
+      "pr-q-001104"
+    ],
+    "tags": [
+      "个人看板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-157",
+    "title": "GTD收集箱案例157",
+    "description": "通过GTD收集箱掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001239",
+      "pr-q-001122",
+      "pr-q-000365"
+    ],
+    "tags": [
+      "GTD收集箱"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-158",
+    "title": "OKR设定案例158",
+    "description": "通过OKR设定掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002242",
+      "pr-q-000382",
+      "pr-q-000275"
+    ],
+    "tags": [
+      "OKR设定"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-159",
+    "title": "习惯打卡案例159",
+    "description": "通过习惯打卡掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001126",
+      "pr-q-002826",
+      "pr-q-001237"
+    ],
+    "tags": [
+      "习惯打卡"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-160",
+    "title": "时间块安排案例160",
+    "description": "通过时间块安排掌握效率",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002491",
+      "pr-q-000839",
+      "pr-q-001053"
+    ],
+    "tags": [
+      "时间块安排"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-161",
+    "title": "深度工作案例161",
+    "description": "通过深度工作掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001869",
+      "pr-q-002963",
+      "pr-q-002541"
+    ],
+    "tags": [
+      "深度工作"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-162",
+    "title": "自动化效率系统案例162",
+    "description": "通过自动化效率系统掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000578",
+      "pr-q-001355",
+      "pr-q-000333"
+    ],
+    "tags": [
+      "自动化效率系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-163",
+    "title": "大学生一周计划案例163",
+    "description": "通过大学生一周计划掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002226",
+      "pr-q-001069",
+      "pr-q-000272"
+    ],
+    "tags": [
+      "大学生一周计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-164",
+    "title": "期末复习计划案例164",
+    "description": "通过期末复习计划掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000181",
+      "pr-q-002512",
+      "pr-q-000111"
+    ],
+    "tags": [
+      "期末复习计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-165",
+    "title": "考研长期计划案例165",
+    "description": "通过考研长期计划掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002130",
+      "pr-q-000556",
+      "pr-q-002564"
+    ],
+    "tags": [
+      "考研长期计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-166",
+    "title": "编程学习日程案例166",
+    "description": "通过编程学习日程掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000728",
+      "pr-q-002485",
+      "pr-q-002302"
+    ],
+    "tags": [
+      "编程学习日程"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-167",
+    "title": "项目开发排期案例167",
+    "description": "通过项目开发排期掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002705",
+      "pr-q-003453",
+      "pr-q-000867"
+    ],
+    "tags": [
+      "项目开发排期"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-168",
+    "title": "求职投递节奏案例168",
+    "description": "通过求职投递节奏掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000946",
+      "pr-q-002052",
+      "pr-q-002484"
+    ],
+    "tags": [
+      "求职投递节奏"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-169",
+    "title": "面试复盘案例169",
+    "description": "通过面试复盘掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001217",
+      "pr-q-000108",
+      "pr-q-001284"
+    ],
+    "tags": [
+      "面试复盘"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-170",
+    "title": "拖延修复案例170",
+    "description": "通过拖延修复掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001350",
+      "pr-q-000545",
+      "pr-q-002480"
+    ],
+    "tags": [
+      "拖延修复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-171",
+    "title": "熬夜修复案例171",
+    "description": "通过熬夜修复掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000353",
+      "pr-q-001600",
+      "pr-q-002707"
+    ],
+    "tags": [
+      "熬夜修复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-172",
+    "title": "周计划模板案例172",
+    "description": "通过周计划模板掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-003414",
+      "pr-q-001986",
+      "pr-q-002012"
+    ],
+    "tags": [
+      "周计划模板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-173",
+    "title": "月计划模板案例173",
+    "description": "通过月计划模板掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000006",
+      "pr-q-002022",
+      "pr-q-002899"
+    ],
+    "tags": [
+      "月计划模板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-174",
+    "title": "个人看板案例174",
+    "description": "通过个人看板掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002479",
+      "pr-q-000208",
+      "pr-q-002686"
+    ],
+    "tags": [
+      "个人看板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-175",
+    "title": "GTD收集箱案例175",
+    "description": "通过GTD收集箱掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002111",
+      "pr-q-000018",
+      "pr-q-001643"
+    ],
+    "tags": [
+      "GTD收集箱"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-176",
+    "title": "OKR设定案例176",
+    "description": "通过OKR设定掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-003338",
+      "pr-q-001470",
+      "pr-q-002040"
+    ],
+    "tags": [
+      "OKR设定"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-177",
+    "title": "习惯打卡案例177",
+    "description": "通过习惯打卡掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-003041",
+      "pr-q-000531",
+      "pr-q-001651"
+    ],
+    "tags": [
+      "习惯打卡"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-178",
+    "title": "时间块安排案例178",
+    "description": "通过时间块安排掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002654",
+      "pr-q-002916",
+      "pr-q-002910"
+    ],
+    "tags": [
+      "时间块安排"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-179",
+    "title": "深度工作案例179",
+    "description": "通过深度工作掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-003065",
+      "pr-q-002727",
+      "pr-q-000963"
+    ],
+    "tags": [
+      "深度工作"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-180",
+    "title": "自动化效率系统案例180",
+    "description": "通过自动化效率系统掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000546",
+      "pr-q-001598",
+      "pr-q-002447"
+    ],
+    "tags": [
+      "自动化效率系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-181",
+    "title": "大学生一周计划案例181",
+    "description": "通过大学生一周计划掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-003120",
+      "pr-q-000067",
+      "pr-q-001019"
+    ],
+    "tags": [
+      "大学生一周计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-182",
+    "title": "期末复习计划案例182",
+    "description": "通过期末复习计划掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000155",
+      "pr-q-002873",
+      "pr-q-003463"
+    ],
+    "tags": [
+      "期末复习计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-183",
+    "title": "考研长期计划案例183",
+    "description": "通过考研长期计划掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001282",
+      "pr-q-001856",
+      "pr-q-003132"
+    ],
+    "tags": [
+      "考研长期计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-184",
+    "title": "编程学习日程案例184",
+    "description": "通过编程学习日程掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000104",
+      "pr-q-000458",
+      "pr-q-000116"
+    ],
+    "tags": [
+      "编程学习日程"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-185",
+    "title": "项目开发排期案例185",
+    "description": "通过项目开发排期掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000997",
+      "pr-q-002379",
+      "pr-q-000304"
+    ],
+    "tags": [
+      "项目开发排期"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-186",
+    "title": "求职投递节奏案例186",
+    "description": "通过求职投递节奏掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001876",
+      "pr-q-000102",
+      "pr-q-001390"
+    ],
+    "tags": [
+      "求职投递节奏"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-187",
+    "title": "面试复盘案例187",
+    "description": "通过面试复盘掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000698",
+      "pr-q-000037",
+      "pr-q-002143"
+    ],
+    "tags": [
+      "面试复盘"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-188",
+    "title": "拖延修复案例188",
+    "description": "通过拖延修复掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-003494",
+      "pr-q-001827",
+      "pr-q-000202"
+    ],
+    "tags": [
+      "拖延修复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-189",
+    "title": "熬夜修复案例189",
+    "description": "通过熬夜修复掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000083",
+      "pr-q-001483",
+      "pr-q-002219"
+    ],
+    "tags": [
+      "熬夜修复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-190",
+    "title": "周计划模板案例190",
+    "description": "通过周计划模板掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000519",
+      "pr-q-002831",
+      "pr-q-000568"
+    ],
+    "tags": [
+      "周计划模板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-191",
+    "title": "月计划模板案例191",
+    "description": "通过月计划模板掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001924",
+      "pr-q-001132",
+      "pr-q-001033"
+    ],
+    "tags": [
+      "月计划模板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-192",
+    "title": "个人看板案例192",
+    "description": "通过个人看板掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-003238",
+      "pr-q-003135",
+      "pr-q-000932"
+    ],
+    "tags": [
+      "个人看板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-193",
+    "title": "GTD收集箱案例193",
+    "description": "通过GTD收集箱掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000328",
+      "pr-q-002399",
+      "pr-q-001467"
+    ],
+    "tags": [
+      "GTD收集箱"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-194",
+    "title": "OKR设定案例194",
+    "description": "通过OKR设定掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000998",
+      "pr-q-001220",
+      "pr-q-001903"
+    ],
+    "tags": [
+      "OKR设定"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-195",
+    "title": "习惯打卡案例195",
+    "description": "通过习惯打卡掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002472",
+      "pr-q-001238",
+      "pr-q-001717"
+    ],
+    "tags": [
+      "习惯打卡"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-196",
+    "title": "时间块安排案例196",
+    "description": "通过时间块安排掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002062",
+      "pr-q-002805",
+      "pr-q-000703"
+    ],
+    "tags": [
+      "时间块安排"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-197",
+    "title": "深度工作案例197",
+    "description": "通过深度工作掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001563",
+      "pr-q-003058",
+      "pr-q-000290"
+    ],
+    "tags": [
+      "深度工作"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-198",
+    "title": "自动化效率系统案例198",
+    "description": "通过自动化效率系统掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000984",
+      "pr-q-002757",
+      "pr-q-002543"
+    ],
+    "tags": [
+      "自动化效率系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-199",
+    "title": "大学生一周计划案例199",
+    "description": "通过大学生一周计划掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000089",
+      "pr-q-001222",
+      "pr-q-002505"
+    ],
+    "tags": [
+      "大学生一周计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-200",
+    "title": "期末复习计划案例200",
+    "description": "通过期末复习计划掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001292",
+      "pr-q-000257",
+      "pr-q-003127"
+    ],
+    "tags": [
+      "期末复习计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-201",
+    "title": "考研长期计划案例201",
+    "description": "通过考研长期计划掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001172",
+      "pr-q-002740",
+      "pr-q-003110"
+    ],
+    "tags": [
+      "考研长期计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-202",
+    "title": "编程学习日程案例202",
+    "description": "通过编程学习日程掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000671",
+      "pr-q-002967",
+      "pr-q-002833"
+    ],
+    "tags": [
+      "编程学习日程"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-203",
+    "title": "项目开发排期案例203",
+    "description": "通过项目开发排期掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002967",
+      "pr-q-003018",
+      "pr-q-003250"
+    ],
+    "tags": [
+      "项目开发排期"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-204",
+    "title": "求职投递节奏案例204",
+    "description": "通过求职投递节奏掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001908",
+      "pr-q-002481",
+      "pr-q-003025"
+    ],
+    "tags": [
+      "求职投递节奏"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-205",
+    "title": "面试复盘案例205",
+    "description": "通过面试复盘掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001938",
+      "pr-q-000750",
+      "pr-q-001505"
+    ],
+    "tags": [
+      "面试复盘"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-206",
+    "title": "拖延修复案例206",
+    "description": "通过拖延修复掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-003476",
+      "pr-q-001877",
+      "pr-q-002933"
+    ],
+    "tags": [
+      "拖延修复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-207",
+    "title": "熬夜修复案例207",
+    "description": "通过熬夜修复掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000791",
+      "pr-q-003452",
+      "pr-q-001293"
+    ],
+    "tags": [
+      "熬夜修复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-208",
+    "title": "周计划模板案例208",
+    "description": "通过周计划模板掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001739",
+      "pr-q-001684",
+      "pr-q-001714"
+    ],
+    "tags": [
+      "周计划模板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-209",
+    "title": "月计划模板案例209",
+    "description": "通过月计划模板掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002056",
+      "pr-q-002237",
+      "pr-q-001295"
+    ],
+    "tags": [
+      "月计划模板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-210",
+    "title": "个人看板案例210",
+    "description": "通过个人看板掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000588",
+      "pr-q-002326",
+      "pr-q-003160"
+    ],
+    "tags": [
+      "个人看板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-211",
+    "title": "GTD收集箱案例211",
+    "description": "通过GTD收集箱掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002007",
+      "pr-q-003017",
+      "pr-q-001362"
+    ],
+    "tags": [
+      "GTD收集箱"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-212",
+    "title": "OKR设定案例212",
+    "description": "通过OKR设定掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000150",
+      "pr-q-003161",
+      "pr-q-003068"
+    ],
+    "tags": [
+      "OKR设定"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-213",
+    "title": "习惯打卡案例213",
+    "description": "通过习惯打卡掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002651",
+      "pr-q-002663",
+      "pr-q-003175"
+    ],
+    "tags": [
+      "习惯打卡"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-214",
+    "title": "时间块安排案例214",
+    "description": "通过时间块安排掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001642",
+      "pr-q-000468",
+      "pr-q-003427"
+    ],
+    "tags": [
+      "时间块安排"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-215",
+    "title": "深度工作案例215",
+    "description": "通过深度工作掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002541",
+      "pr-q-000650",
+      "pr-q-001513"
+    ],
+    "tags": [
+      "深度工作"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-216",
+    "title": "自动化效率系统案例216",
+    "description": "通过自动化效率系统掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002241",
+      "pr-q-001514",
+      "pr-q-002383"
+    ],
+    "tags": [
+      "自动化效率系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-217",
+    "title": "大学生一周计划案例217",
+    "description": "通过大学生一周计划掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002241",
+      "pr-q-002276",
+      "pr-q-002205"
+    ],
+    "tags": [
+      "大学生一周计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-218",
+    "title": "期末复习计划案例218",
+    "description": "通过期末复习计划掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-003183",
+      "pr-q-002969",
+      "pr-q-002726"
+    ],
+    "tags": [
+      "期末复习计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-219",
+    "title": "考研长期计划案例219",
+    "description": "通过考研长期计划掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000437",
+      "pr-q-002141",
+      "pr-q-000868"
+    ],
+    "tags": [
+      "考研长期计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-220",
+    "title": "编程学习日程案例220",
+    "description": "通过编程学习日程掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000037",
+      "pr-q-003204",
+      "pr-q-002717"
+    ],
+    "tags": [
+      "编程学习日程"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-221",
+    "title": "项目开发排期案例221",
+    "description": "通过项目开发排期掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000128",
+      "pr-q-000446",
+      "pr-q-003024"
+    ],
+    "tags": [
+      "项目开发排期"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-222",
+    "title": "求职投递节奏案例222",
+    "description": "通过求职投递节奏掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000225",
+      "pr-q-003182",
+      "pr-q-002369"
+    ],
+    "tags": [
+      "求职投递节奏"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-223",
+    "title": "面试复盘案例223",
+    "description": "通过面试复盘掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002633",
+      "pr-q-002079",
+      "pr-q-002319"
+    ],
+    "tags": [
+      "面试复盘"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-224",
+    "title": "拖延修复案例224",
+    "description": "通过拖延修复掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002179",
+      "pr-q-001738",
+      "pr-q-001200"
+    ],
+    "tags": [
+      "拖延修复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-225",
+    "title": "熬夜修复案例225",
+    "description": "通过熬夜修复掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-003374",
+      "pr-q-001386",
+      "pr-q-001370"
+    ],
+    "tags": [
+      "熬夜修复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-226",
+    "title": "周计划模板案例226",
+    "description": "通过周计划模板掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000915",
+      "pr-q-000375",
+      "pr-q-000327"
+    ],
+    "tags": [
+      "周计划模板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-227",
+    "title": "月计划模板案例227",
+    "description": "通过月计划模板掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-003291",
+      "pr-q-000096",
+      "pr-q-001309"
+    ],
+    "tags": [
+      "月计划模板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-228",
+    "title": "个人看板案例228",
+    "description": "通过个人看板掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001341",
+      "pr-q-002185",
+      "pr-q-002709"
+    ],
+    "tags": [
+      "个人看板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-229",
+    "title": "GTD收集箱案例229",
+    "description": "通过GTD收集箱掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002260",
+      "pr-q-003081",
+      "pr-q-001230"
+    ],
+    "tags": [
+      "GTD收集箱"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-230",
+    "title": "OKR设定案例230",
+    "description": "通过OKR设定掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001196",
+      "pr-q-003270",
+      "pr-q-001275"
+    ],
+    "tags": [
+      "OKR设定"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-231",
+    "title": "习惯打卡案例231",
+    "description": "通过习惯打卡掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001669",
+      "pr-q-002016",
+      "pr-q-002383"
+    ],
+    "tags": [
+      "习惯打卡"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-232",
+    "title": "时间块安排案例232",
+    "description": "通过时间块安排掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001524",
+      "pr-q-001615",
+      "pr-q-001521"
+    ],
+    "tags": [
+      "时间块安排"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-233",
+    "title": "深度工作案例233",
+    "description": "通过深度工作掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001352",
+      "pr-q-002043",
+      "pr-q-001759"
+    ],
+    "tags": [
+      "深度工作"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-234",
+    "title": "自动化效率系统案例234",
+    "description": "通过自动化效率系统掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002767",
+      "pr-q-003244",
+      "pr-q-002065"
+    ],
+    "tags": [
+      "自动化效率系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-235",
+    "title": "大学生一周计划案例235",
+    "description": "通过大学生一周计划掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002261",
+      "pr-q-000243",
+      "pr-q-002569"
+    ],
+    "tags": [
+      "大学生一周计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-236",
+    "title": "期末复习计划案例236",
+    "description": "通过期末复习计划掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-003071",
+      "pr-q-001961",
+      "pr-q-001492"
+    ],
+    "tags": [
+      "期末复习计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-237",
+    "title": "考研长期计划案例237",
+    "description": "通过考研长期计划掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000662",
+      "pr-q-001957",
+      "pr-q-002102"
+    ],
+    "tags": [
+      "考研长期计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-238",
+    "title": "编程学习日程案例238",
+    "description": "通过编程学习日程掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001170",
+      "pr-q-002972",
+      "pr-q-000154"
+    ],
+    "tags": [
+      "编程学习日程"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-239",
+    "title": "项目开发排期案例239",
+    "description": "通过项目开发排期掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002922",
+      "pr-q-002128",
+      "pr-q-001280"
+    ],
+    "tags": [
+      "项目开发排期"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-240",
+    "title": "求职投递节奏案例240",
+    "description": "通过求职投递节奏掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001079",
+      "pr-q-002059",
+      "pr-q-001792"
+    ],
+    "tags": [
+      "求职投递节奏"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-241",
+    "title": "面试复盘案例241",
+    "description": "通过面试复盘掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-003464",
+      "pr-q-000759",
+      "pr-q-000258"
+    ],
+    "tags": [
+      "面试复盘"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-242",
+    "title": "拖延修复案例242",
+    "description": "通过拖延修复掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000582",
+      "pr-q-000082",
+      "pr-q-000253"
+    ],
+    "tags": [
+      "拖延修复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-243",
+    "title": "熬夜修复案例243",
+    "description": "通过熬夜修复掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002969",
+      "pr-q-000960",
+      "pr-q-000632"
+    ],
+    "tags": [
+      "熬夜修复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-244",
+    "title": "周计划模板案例244",
+    "description": "通过周计划模板掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001866",
+      "pr-q-001890",
+      "pr-q-002123"
+    ],
+    "tags": [
+      "周计划模板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-245",
+    "title": "月计划模板案例245",
+    "description": "通过月计划模板掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-003106",
+      "pr-q-002098",
+      "pr-q-002269"
+    ],
+    "tags": [
+      "月计划模板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-246",
+    "title": "个人看板案例246",
+    "description": "通过个人看板掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000185",
+      "pr-q-000076",
+      "pr-q-002534"
+    ],
+    "tags": [
+      "个人看板"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-247",
+    "title": "GTD收集箱案例247",
+    "description": "通过GTD收集箱掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000920",
+      "pr-q-003135",
+      "pr-q-000419"
+    ],
+    "tags": [
+      "GTD收集箱"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-248",
+    "title": "OKR设定案例248",
+    "description": "通过OKR设定掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000498",
+      "pr-q-000813",
+      "pr-q-002460"
+    ],
+    "tags": [
+      "OKR设定"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-249",
+    "title": "习惯打卡案例249",
+    "description": "通过习惯打卡掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001296",
+      "pr-q-002878",
+      "pr-q-001375"
+    ],
+    "tags": [
+      "习惯打卡"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-250",
+    "title": "时间块安排案例250",
+    "description": "通过时间块安排掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002848",
+      "pr-q-000381",
+      "pr-q-002266"
+    ],
+    "tags": [
+      "时间块安排"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-251",
+    "title": "深度工作案例251",
+    "description": "通过深度工作掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-000830",
+      "pr-q-002426",
+      "pr-q-002354"
+    ],
+    "tags": [
+      "深度工作"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-252",
+    "title": "自动化效率系统案例252",
+    "description": "通过自动化效率系统掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001002",
+      "pr-q-000047",
+      "pr-q-000445"
+    ],
+    "tags": [
+      "自动化效率系统"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-253",
+    "title": "大学生一周计划案例253",
+    "description": "通过大学生一周计划掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001338",
+      "pr-q-001571",
+      "pr-q-000558"
+    ],
+    "tags": [
+      "大学生一周计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-254",
+    "title": "期末复习计划案例254",
+    "description": "通过期末复习计划掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001076",
+      "pr-q-002640",
+      "pr-q-000864"
+    ],
+    "tags": [
+      "期末复习计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-255",
+    "title": "考研长期计划案例255",
+    "description": "通过考研长期计划掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001705",
+      "pr-q-001388",
+      "pr-q-001707"
+    ],
+    "tags": [
+      "考研长期计划"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-256",
+    "title": "编程学习日程案例256",
+    "description": "通过编程学习日程掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001080",
+      "pr-q-002523",
+      "pr-q-002826"
+    ],
+    "tags": [
+      "编程学习日程"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-257",
+    "title": "项目开发排期案例257",
+    "description": "通过项目开发排期掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-002437",
+      "pr-q-002242",
+      "pr-q-000430"
+    ],
+    "tags": [
+      "项目开发排期"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-258",
+    "title": "求职投递节奏案例258",
+    "description": "通过求职投递节奏掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-003459",
+      "pr-q-002218",
+      "pr-q-002493"
+    ],
+    "tags": [
+      "求职投递节奏"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-259",
+    "title": "面试复盘案例259",
+    "description": "通过面试复盘掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-003003",
+      "pr-q-002907",
+      "pr-q-002007"
+    ],
+    "tags": [
+      "面试复盘"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "pr-case-260",
+    "title": "拖延修复案例260",
+    "description": "通过拖延修复掌握效率",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "背景",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "设计"
+      },
+      {
+        "order": 3,
+        "title": "执行",
+        "description": "实施"
+      },
+      {
+        "order": 4,
+        "title": "复盘",
+        "description": "检查"
+      }
+    ],
+    "relatedQuestionIds": [
+      "pr-q-001022",
+      "pr-q-002450",
+      "pr-q-002517"
+    ],
+    "tags": [
+      "拖延修复"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  }
+]

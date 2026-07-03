@@ -1,0 +1,41 @@
+{
+  "id": "mod-personal-productivity",
+  "slug": "module-personal-productivity",
+  "title": "个人效率时间管理与自我规划",
+  "subtitle": "面向学生和开发者",
+  "description": "面向学生开发者和求职者的时间管理目标拆解GTD OKR优先级判断周计划月计划习惯养成精力管理个人看板与长期自我规划训练。",
+  "version": "2.0.0",
+  "license": "MIT",
+  "authors": [
+    "OpenSkill Community"
+  ],
+  "tags": [
+    "时间管理",
+    "个人效率",
+    "GTD",
+    "OKR",
+    "任务管理",
+    "习惯养成",
+    "复盘",
+    "自我规划"
+  ],
+  "estimatedHours": 120,
+  "difficulty": "beginner",
+  "updatedAt": "2026-07-03T00:00:00.000Z",
+  "coverEmoji": "⏰",
+  "repoUrl": "https://github.com/openskill-galaxy/module-personal-productivity",
+  "portalUrl": "https://openskill-galaxy.github.io/",
+  "status": "stable",
+  "stats": {
+    "courses": 14,
+    "lessons": 182,
+    "knowledgePoints": 735,
+    "questions": 3500,
+    "cases": 260,
+    "exams": 100,
+    "routes": 35,
+    "glossary": 360,
+    "faqs": 210,
+    "tags": 171
+  }
+}
