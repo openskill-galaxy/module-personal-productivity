@@ -36,7 +36,11 @@
     "tags": [
       "Prod入门"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Prod入门基础",
+    "description": "Prod入门基础",
+    "slug": "prod入门基础"
   },
   {
     "id": "pr-exam-02",
@@ -75,7 +79,11 @@
     "tags": [
       "GoalLife"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "GoalLife基础",
+    "description": "GoalLife基础",
+    "slug": "goallife基础"
   },
   {
     "id": "pr-exam-03",
@@ -114,7 +122,11 @@
     "tags": [
       "OKRKPI"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "OKRKPI基础",
+    "description": "OKRKPI基础",
+    "slug": "okrkpi基础"
   },
   {
     "id": "pr-exam-04",
@@ -153,7 +165,11 @@
     "tags": [
       "GTD"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "GTD基础",
+    "description": "GTD基础",
+    "slug": "gtd基础"
   },
   {
     "id": "pr-exam-05",
@@ -192,7 +208,11 @@
     "tags": [
       "Priority"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Priority基础",
+    "description": "Priority基础",
+    "slug": "priority基础"
   },
   {
     "id": "pr-exam-06",
@@ -231,7 +251,11 @@
     "tags": [
       "TimeBlock"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "TimeBlock基础",
+    "description": "TimeBlock基础",
+    "slug": "timeblock基础"
   },
   {
     "id": "pr-exam-07",
@@ -270,7 +294,11 @@
     "tags": [
       "WeeklyMonthly"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "WeeklyMonthly基础",
+    "description": "WeeklyMonthly基础",
+    "slug": "weeklymonthly基础"
   },
   {
     "id": "pr-exam-08",
@@ -309,7 +337,11 @@
     "tags": [
       "Habits"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Habits基础",
+    "description": "Habits基础",
+    "slug": "habits基础"
   },
   {
     "id": "pr-exam-09",
@@ -348,7 +380,11 @@
     "tags": [
       "Energy"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Energy基础",
+    "description": "Energy基础",
+    "slug": "energy基础"
   },
   {
     "id": "pr-exam-10",
@@ -387,7 +423,11 @@
     "tags": [
       "Procrastination"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Procrastination基础",
+    "description": "Procrastination基础",
+    "slug": "procrastination基础"
   },
   {
     "id": "pr-exam-11",
@@ -426,7 +466,11 @@
     "tags": [
       "Kanban"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Kanban基础",
+    "description": "Kanban基础",
+    "slug": "kanban基础"
   },
   {
     "id": "pr-exam-12",
@@ -465,7 +509,11 @@
     "tags": [
       "Balance"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Balance基础",
+    "description": "Balance基础",
+    "slug": "balance基础"
   },
   {
     "id": "pr-exam-13",
@@ -504,7 +552,11 @@
     "tags": [
       "Tools"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Tools基础",
+    "description": "Tools基础",
+    "slug": "tools基础"
   },
   {
     "id": "pr-exam-14",
@@ -543,7 +595,11 @@
     "tags": [
       "LongTermGrowth"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "LongTermGrowth基础",
+    "description": "LongTermGrowth基础",
+    "slug": "longtermgrowth基础"
   },
   {
     "id": "pr-exam-15",
@@ -582,7 +638,11 @@
     "tags": [
       "Prod入门"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Prod入门基础",
+    "description": "Prod入门基础",
+    "slug": "prod入门基础"
   },
   {
     "id": "pr-exam-16",
@@ -621,7 +681,11 @@
     "tags": [
       "GoalLife"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "GoalLife基础",
+    "description": "GoalLife基础",
+    "slug": "goallife基础"
   },
   {
     "id": "pr-exam-17",
@@ -660,7 +724,11 @@
     "tags": [
       "OKRKPI"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "OKRKPI基础",
+    "description": "OKRKPI基础",
+    "slug": "okrkpi基础"
   },
   {
     "id": "pr-exam-18",
@@ -699,7 +767,11 @@
     "tags": [
       "GTD"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "GTD基础",
+    "description": "GTD基础",
+    "slug": "gtd基础"
   },
   {
     "id": "pr-exam-19",
@@ -738,7 +810,11 @@
     "tags": [
       "Priority"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Priority基础",
+    "description": "Priority基础",
+    "slug": "priority基础"
   },
   {
     "id": "pr-exam-20",
@@ -777,7 +853,11 @@
     "tags": [
       "TimeBlock"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "TimeBlock基础",
+    "description": "TimeBlock基础",
+    "slug": "timeblock基础"
   },
   {
     "id": "pr-exam-21",
@@ -816,7 +896,11 @@
     "tags": [
       "WeeklyMonthly"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "WeeklyMonthly基础",
+    "description": "WeeklyMonthly基础",
+    "slug": "weeklymonthly基础"
   },
   {
     "id": "pr-exam-22",
@@ -855,7 +939,11 @@
     "tags": [
       "Habits"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Habits基础",
+    "description": "Habits基础",
+    "slug": "habits基础"
   },
   {
     "id": "pr-exam-23",
@@ -894,7 +982,11 @@
     "tags": [
       "Energy"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Energy基础",
+    "description": "Energy基础",
+    "slug": "energy基础"
   },
   {
     "id": "pr-exam-24",
@@ -933,7 +1025,11 @@
     "tags": [
       "Procrastination"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Procrastination基础",
+    "description": "Procrastination基础",
+    "slug": "procrastination基础"
   },
   {
     "id": "pr-exam-25",
@@ -972,7 +1068,11 @@
     "tags": [
       "Kanban"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Kanban基础",
+    "description": "Kanban基础",
+    "slug": "kanban基础"
   },
   {
     "id": "pr-exam-26",
@@ -1011,7 +1111,11 @@
     "tags": [
       "Balance"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Balance基础",
+    "description": "Balance基础",
+    "slug": "balance基础"
   },
   {
     "id": "pr-exam-27",
@@ -1050,7 +1154,11 @@
     "tags": [
       "Tools"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Tools基础",
+    "description": "Tools基础",
+    "slug": "tools基础"
   },
   {
     "id": "pr-exam-28",
@@ -1089,7 +1197,11 @@
     "tags": [
       "LongTermGrowth"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "LongTermGrowth基础",
+    "description": "LongTermGrowth基础",
+    "slug": "longtermgrowth基础"
   },
   {
     "id": "pr-exam-29",
@@ -1128,7 +1240,11 @@
     "tags": [
       "Prod入门"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Prod入门基础",
+    "description": "Prod入门基础",
+    "slug": "prod入门基础"
   },
   {
     "id": "pr-exam-30",
@@ -1167,7 +1283,11 @@
     "tags": [
       "GoalLife"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "GoalLife基础",
+    "description": "GoalLife基础",
+    "slug": "goallife基础"
   },
   {
     "id": "pr-exam-31",
@@ -1206,7 +1326,11 @@
     "tags": [
       "OKRKPI"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "OKRKPI基础",
+    "description": "OKRKPI基础",
+    "slug": "okrkpi基础"
   },
   {
     "id": "pr-exam-32",
@@ -1245,7 +1369,11 @@
     "tags": [
       "GTD"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "GTD基础",
+    "description": "GTD基础",
+    "slug": "gtd基础"
   },
   {
     "id": "pr-exam-33",
@@ -1284,7 +1412,11 @@
     "tags": [
       "Priority"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Priority基础",
+    "description": "Priority基础",
+    "slug": "priority基础"
   },
   {
     "id": "pr-exam-34",
@@ -1323,7 +1455,11 @@
     "tags": [
       "TimeBlock"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "TimeBlock基础",
+    "description": "TimeBlock基础",
+    "slug": "timeblock基础"
   },
   {
     "id": "pr-exam-35",
@@ -1362,7 +1498,11 @@
     "tags": [
       "WeeklyMonthly"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "WeeklyMonthly基础",
+    "description": "WeeklyMonthly基础",
+    "slug": "weeklymonthly基础"
   },
   {
     "id": "pr-exam-36",
@@ -1401,7 +1541,11 @@
     "tags": [
       "Habits"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Habits进阶",
+    "description": "Habits进阶",
+    "slug": "habits进阶"
   },
   {
     "id": "pr-exam-37",
@@ -1440,7 +1584,11 @@
     "tags": [
       "Energy"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Energy进阶",
+    "description": "Energy进阶",
+    "slug": "energy进阶"
   },
   {
     "id": "pr-exam-38",
@@ -1479,7 +1627,11 @@
     "tags": [
       "Procrastination"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Procrastination进阶",
+    "description": "Procrastination进阶",
+    "slug": "procrastination进阶"
   },
   {
     "id": "pr-exam-39",
@@ -1518,7 +1670,11 @@
     "tags": [
       "Kanban"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Kanban进阶",
+    "description": "Kanban进阶",
+    "slug": "kanban进阶"
   },
   {
     "id": "pr-exam-40",
@@ -1557,7 +1713,11 @@
     "tags": [
       "Balance"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Balance进阶",
+    "description": "Balance进阶",
+    "slug": "balance进阶"
   },
   {
     "id": "pr-exam-41",
@@ -1596,7 +1756,11 @@
     "tags": [
       "Tools"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Tools进阶",
+    "description": "Tools进阶",
+    "slug": "tools进阶"
   },
   {
     "id": "pr-exam-42",
@@ -1635,7 +1799,11 @@
     "tags": [
       "LongTermGrowth"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "LongTermGrowth进阶",
+    "description": "LongTermGrowth进阶",
+    "slug": "longtermgrowth进阶"
   },
   {
     "id": "pr-exam-43",
@@ -1674,7 +1842,11 @@
     "tags": [
       "Prod入门"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Prod入门进阶",
+    "description": "Prod入门进阶",
+    "slug": "prod入门进阶"
   },
   {
     "id": "pr-exam-44",
@@ -1713,7 +1885,11 @@
     "tags": [
       "GoalLife"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "GoalLife进阶",
+    "description": "GoalLife进阶",
+    "slug": "goallife进阶"
   },
   {
     "id": "pr-exam-45",
@@ -1752,7 +1928,11 @@
     "tags": [
       "OKRKPI"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "OKRKPI进阶",
+    "description": "OKRKPI进阶",
+    "slug": "okrkpi进阶"
   },
   {
     "id": "pr-exam-46",
@@ -1791,7 +1971,11 @@
     "tags": [
       "GTD"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "GTD进阶",
+    "description": "GTD进阶",
+    "slug": "gtd进阶"
   },
   {
     "id": "pr-exam-47",
@@ -1830,7 +2014,11 @@
     "tags": [
       "Priority"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Priority进阶",
+    "description": "Priority进阶",
+    "slug": "priority进阶"
   },
   {
     "id": "pr-exam-48",
@@ -1869,7 +2057,11 @@
     "tags": [
       "TimeBlock"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "TimeBlock进阶",
+    "description": "TimeBlock进阶",
+    "slug": "timeblock进阶"
   },
   {
     "id": "pr-exam-49",
@@ -1908,7 +2100,11 @@
     "tags": [
       "WeeklyMonthly"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "WeeklyMonthly进阶",
+    "description": "WeeklyMonthly进阶",
+    "slug": "weeklymonthly进阶"
   },
   {
     "id": "pr-exam-50",
@@ -1947,7 +2143,11 @@
     "tags": [
       "Habits"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Habits进阶",
+    "description": "Habits进阶",
+    "slug": "habits进阶"
   },
   {
     "id": "pr-exam-51",
@@ -1986,7 +2186,11 @@
     "tags": [
       "Energy"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Energy进阶",
+    "description": "Energy进阶",
+    "slug": "energy进阶"
   },
   {
     "id": "pr-exam-52",
@@ -2025,7 +2229,11 @@
     "tags": [
       "Procrastination"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Procrastination进阶",
+    "description": "Procrastination进阶",
+    "slug": "procrastination进阶"
   },
   {
     "id": "pr-exam-53",
@@ -2064,7 +2272,11 @@
     "tags": [
       "Kanban"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Kanban进阶",
+    "description": "Kanban进阶",
+    "slug": "kanban进阶"
   },
   {
     "id": "pr-exam-54",
@@ -2103,7 +2315,11 @@
     "tags": [
       "Balance"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Balance进阶",
+    "description": "Balance进阶",
+    "slug": "balance进阶"
   },
   {
     "id": "pr-exam-55",
@@ -2142,7 +2358,11 @@
     "tags": [
       "Tools"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Tools进阶",
+    "description": "Tools进阶",
+    "slug": "tools进阶"
   },
   {
     "id": "pr-exam-56",
@@ -2181,7 +2401,11 @@
     "tags": [
       "LongTermGrowth"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "LongTermGrowth进阶",
+    "description": "LongTermGrowth进阶",
+    "slug": "longtermgrowth进阶"
   },
   {
     "id": "pr-exam-57",
@@ -2220,7 +2444,11 @@
     "tags": [
       "Prod入门"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Prod入门进阶",
+    "description": "Prod入门进阶",
+    "slug": "prod入门进阶"
   },
   {
     "id": "pr-exam-58",
@@ -2259,7 +2487,11 @@
     "tags": [
       "GoalLife"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "GoalLife进阶",
+    "description": "GoalLife进阶",
+    "slug": "goallife进阶"
   },
   {
     "id": "pr-exam-59",
@@ -2298,7 +2530,11 @@
     "tags": [
       "OKRKPI"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "OKRKPI进阶",
+    "description": "OKRKPI进阶",
+    "slug": "okrkpi进阶"
   },
   {
     "id": "pr-exam-60",
@@ -2337,7 +2573,11 @@
     "tags": [
       "GTD"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "GTD进阶",
+    "description": "GTD进阶",
+    "slug": "gtd进阶"
   },
   {
     "id": "pr-exam-61",
@@ -2376,7 +2616,11 @@
     "tags": [
       "Priority"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Priority进阶",
+    "description": "Priority进阶",
+    "slug": "priority进阶"
   },
   {
     "id": "pr-exam-62",
@@ -2415,7 +2659,11 @@
     "tags": [
       "TimeBlock"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "TimeBlock进阶",
+    "description": "TimeBlock进阶",
+    "slug": "timeblock进阶"
   },
   {
     "id": "pr-exam-63",
@@ -2454,7 +2702,11 @@
     "tags": [
       "WeeklyMonthly"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "WeeklyMonthly进阶",
+    "description": "WeeklyMonthly进阶",
+    "slug": "weeklymonthly进阶"
   },
   {
     "id": "pr-exam-64",
@@ -2493,7 +2745,11 @@
     "tags": [
       "Habits"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Habits进阶",
+    "description": "Habits进阶",
+    "slug": "habits进阶"
   },
   {
     "id": "pr-exam-65",
@@ -2532,7 +2788,11 @@
     "tags": [
       "Energy"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Energy进阶",
+    "description": "Energy进阶",
+    "slug": "energy进阶"
   },
   {
     "id": "pr-exam-66",
@@ -2571,7 +2831,11 @@
     "tags": [
       "Procrastination"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Procrastination进阶",
+    "description": "Procrastination进阶",
+    "slug": "procrastination进阶"
   },
   {
     "id": "pr-exam-67",
@@ -2610,7 +2874,11 @@
     "tags": [
       "Kanban"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Kanban进阶",
+    "description": "Kanban进阶",
+    "slug": "kanban进阶"
   },
   {
     "id": "pr-exam-68",
@@ -2649,7 +2917,11 @@
     "tags": [
       "Balance"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Balance进阶",
+    "description": "Balance进阶",
+    "slug": "balance进阶"
   },
   {
     "id": "pr-exam-69",
@@ -2688,7 +2960,11 @@
     "tags": [
       "Tools"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Tools进阶",
+    "description": "Tools进阶",
+    "slug": "tools进阶"
   },
   {
     "id": "pr-exam-70",
@@ -2727,7 +3003,11 @@
     "tags": [
       "LongTermGrowth"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "LongTermGrowth进阶",
+    "description": "LongTermGrowth进阶",
+    "slug": "longtermgrowth进阶"
   },
   {
     "id": "pr-exam-71",
@@ -2766,7 +3046,11 @@
     "tags": [
       "Prod入门"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Prod入门进阶",
+    "description": "Prod入门进阶",
+    "slug": "prod入门进阶"
   },
   {
     "id": "pr-exam-72",
@@ -2805,7 +3089,11 @@
     "tags": [
       "GoalLife"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "GoalLife进阶",
+    "description": "GoalLife进阶",
+    "slug": "goallife进阶"
   },
   {
     "id": "pr-exam-73",
@@ -2844,7 +3132,11 @@
     "tags": [
       "OKRKPI"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "OKRKPI进阶",
+    "description": "OKRKPI进阶",
+    "slug": "okrkpi进阶"
   },
   {
     "id": "pr-exam-74",
@@ -2883,7 +3175,11 @@
     "tags": [
       "GTD"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "GTD进阶",
+    "description": "GTD进阶",
+    "slug": "gtd进阶"
   },
   {
     "id": "pr-exam-75",
@@ -2922,7 +3218,11 @@
     "tags": [
       "Priority"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Priority进阶",
+    "description": "Priority进阶",
+    "slug": "priority进阶"
   },
   {
     "id": "pr-exam-76",
@@ -2961,7 +3261,11 @@
     "tags": [
       "TimeBlock"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "TimeBlock进阶",
+    "description": "TimeBlock进阶",
+    "slug": "timeblock进阶"
   },
   {
     "id": "pr-exam-77",
@@ -3000,7 +3304,11 @@
     "tags": [
       "WeeklyMonthly"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "WeeklyMonthly进阶",
+    "description": "WeeklyMonthly进阶",
+    "slug": "weeklymonthly进阶"
   },
   {
     "id": "pr-exam-78",
@@ -3039,7 +3347,11 @@
     "tags": [
       "Habits"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Habits进阶",
+    "description": "Habits进阶",
+    "slug": "habits进阶"
   },
   {
     "id": "pr-exam-79",
@@ -3078,7 +3390,11 @@
     "tags": [
       "Energy"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Energy进阶",
+    "description": "Energy进阶",
+    "slug": "energy进阶"
   },
   {
     "id": "pr-exam-80",
@@ -3117,7 +3433,11 @@
     "tags": [
       "Procrastination"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Procrastination进阶",
+    "description": "Procrastination进阶",
+    "slug": "procrastination进阶"
   },
   {
     "id": "pr-exam-81",
@@ -3156,7 +3476,11 @@
     "tags": [
       "Kanban"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Kanban进阶",
+    "description": "Kanban进阶",
+    "slug": "kanban进阶"
   },
   {
     "id": "pr-exam-82",
@@ -3195,7 +3519,11 @@
     "tags": [
       "Balance"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Balance进阶",
+    "description": "Balance进阶",
+    "slug": "balance进阶"
   },
   {
     "id": "pr-exam-83",
@@ -3234,7 +3562,11 @@
     "tags": [
       "Tools"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Tools进阶",
+    "description": "Tools进阶",
+    "slug": "tools进阶"
   },
   {
     "id": "pr-exam-84",
@@ -3273,7 +3605,11 @@
     "tags": [
       "LongTermGrowth"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "LongTermGrowth进阶",
+    "description": "LongTermGrowth进阶",
+    "slug": "longtermgrowth进阶"
   },
   {
     "id": "pr-exam-85",
@@ -3312,7 +3648,11 @@
     "tags": [
       "Prod入门"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Prod入门进阶",
+    "description": "Prod入门进阶",
+    "slug": "prod入门进阶"
   },
   {
     "id": "pr-exam-86",
@@ -3351,7 +3691,11 @@
     "tags": [
       "GoalLife"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "GoalLife进阶",
+    "description": "GoalLife进阶",
+    "slug": "goallife进阶"
   },
   {
     "id": "pr-exam-87",
@@ -3390,7 +3734,11 @@
     "tags": [
       "OKRKPI"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "OKRKPI进阶",
+    "description": "OKRKPI进阶",
+    "slug": "okrkpi进阶"
   },
   {
     "id": "pr-exam-88",
@@ -3429,7 +3777,11 @@
     "tags": [
       "GTD"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "GTD进阶",
+    "description": "GTD进阶",
+    "slug": "gtd进阶"
   },
   {
     "id": "pr-exam-89",
@@ -3468,7 +3820,11 @@
     "tags": [
       "Priority"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Priority进阶",
+    "description": "Priority进阶",
+    "slug": "priority进阶"
   },
   {
     "id": "pr-exam-90",
@@ -3507,7 +3863,11 @@
     "tags": [
       "TimeBlock"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "TimeBlock进阶",
+    "description": "TimeBlock进阶",
+    "slug": "timeblock进阶"
   },
   {
     "id": "pr-exam-91",
@@ -3546,7 +3906,11 @@
     "tags": [
       "WeeklyMonthly"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "WeeklyMonthly进阶",
+    "description": "WeeklyMonthly进阶",
+    "slug": "weeklymonthly进阶"
   },
   {
     "id": "pr-exam-92",
@@ -3585,7 +3949,11 @@
     "tags": [
       "Habits"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Habits进阶",
+    "description": "Habits进阶",
+    "slug": "habits进阶"
   },
   {
     "id": "pr-exam-93",
@@ -3624,7 +3992,11 @@
     "tags": [
       "Energy"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Energy进阶",
+    "description": "Energy进阶",
+    "slug": "energy进阶"
   },
   {
     "id": "pr-exam-94",
@@ -3663,7 +4035,11 @@
     "tags": [
       "Procrastination"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Procrastination进阶",
+    "description": "Procrastination进阶",
+    "slug": "procrastination进阶"
   },
   {
     "id": "pr-exam-95",
@@ -3702,7 +4078,11 @@
     "tags": [
       "Kanban"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Kanban进阶",
+    "description": "Kanban进阶",
+    "slug": "kanban进阶"
   },
   {
     "id": "pr-exam-96",
@@ -3741,7 +4121,11 @@
     "tags": [
       "Balance"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Balance进阶",
+    "description": "Balance进阶",
+    "slug": "balance进阶"
   },
   {
     "id": "pr-exam-97",
@@ -3780,7 +4164,11 @@
     "tags": [
       "Tools"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Tools进阶",
+    "description": "Tools进阶",
+    "slug": "tools进阶"
   },
   {
     "id": "pr-exam-98",
@@ -3819,7 +4207,11 @@
     "tags": [
       "LongTermGrowth"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "LongTermGrowth进阶",
+    "description": "LongTermGrowth进阶",
+    "slug": "longtermgrowth进阶"
   },
   {
     "id": "pr-exam-99",
@@ -3858,7 +4250,11 @@
     "tags": [
       "Prod入门"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Prod入门进阶",
+    "description": "Prod入门进阶",
+    "slug": "prod入门进阶"
   },
   {
     "id": "pr-exam-100",
@@ -3897,6 +4293,10 @@
     "tags": [
       "GoalLife"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "GoalLife进阶",
+    "description": "GoalLife进阶",
+    "slug": "goallife进阶"
   }
 ]

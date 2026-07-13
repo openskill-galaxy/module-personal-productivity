@@ -34,7 +34,23 @@
       "会做周计划",
       "养成好习惯"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "pr-lesson-001",
+      "pr-lesson-002",
+      "pr-lesson-003",
+      "pr-lesson-004",
+      "pr-lesson-005",
+      "pr-lesson-006",
+      "pr-lesson-007",
+      "pr-lesson-008",
+      "pr-lesson-009",
+      "pr-lesson-010",
+      "pr-lesson-011",
+      "pr-lesson-012",
+      "pr-lesson-013"
+    ],
+    "summary": "效率定义、自我管理、学习路线。"
   },
   {
     "id": "pr-course-02",
@@ -71,7 +87,23 @@
       "会做周计划",
       "养成好习惯"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "pr-lesson-014",
+      "pr-lesson-015",
+      "pr-lesson-016",
+      "pr-lesson-017",
+      "pr-lesson-018",
+      "pr-lesson-019",
+      "pr-lesson-020",
+      "pr-lesson-021",
+      "pr-lesson-022",
+      "pr-lesson-023",
+      "pr-lesson-024",
+      "pr-lesson-025",
+      "pr-lesson-026"
+    ],
+    "summary": "人生目标、年度计划、阶段复盘。"
   },
   {
     "id": "pr-course-03",
@@ -108,7 +140,23 @@
       "会做周计划",
       "养成好习惯"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "pr-lesson-027",
+      "pr-lesson-028",
+      "pr-lesson-029",
+      "pr-lesson-030",
+      "pr-lesson-031",
+      "pr-lesson-032",
+      "pr-lesson-033",
+      "pr-lesson-034",
+      "pr-lesson-035",
+      "pr-lesson-036",
+      "pr-lesson-037",
+      "pr-lesson-038",
+      "pr-lesson-039"
+    ],
+    "summary": "OKR方法、关键结果、目标对齐。"
   },
   {
     "id": "pr-course-04",
@@ -145,7 +193,23 @@
       "会做周计划",
       "养成好习惯"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "pr-lesson-040",
+      "pr-lesson-041",
+      "pr-lesson-042",
+      "pr-lesson-043",
+      "pr-lesson-044",
+      "pr-lesson-045",
+      "pr-lesson-046",
+      "pr-lesson-047",
+      "pr-lesson-048",
+      "pr-lesson-049",
+      "pr-lesson-050",
+      "pr-lesson-051",
+      "pr-lesson-052"
+    ],
+    "summary": "GTD五步法、收集箱、下一步行动。"
   },
   {
     "id": "pr-course-05",
@@ -182,7 +246,23 @@
       "会做周计划",
       "养成好习惯"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "pr-lesson-053",
+      "pr-lesson-054",
+      "pr-lesson-055",
+      "pr-lesson-056",
+      "pr-lesson-057",
+      "pr-lesson-058",
+      "pr-lesson-059",
+      "pr-lesson-060",
+      "pr-lesson-061",
+      "pr-lesson-062",
+      "pr-lesson-063",
+      "pr-lesson-064",
+      "pr-lesson-065"
+    ],
+    "summary": "重要紧急矩阵、80/20法则、任务排序。"
   },
   {
     "id": "pr-course-06",
@@ -219,7 +299,23 @@
       "会做周计划",
       "养成好习惯"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "pr-lesson-066",
+      "pr-lesson-067",
+      "pr-lesson-068",
+      "pr-lesson-069",
+      "pr-lesson-070",
+      "pr-lesson-071",
+      "pr-lesson-072",
+      "pr-lesson-073",
+      "pr-lesson-074",
+      "pr-lesson-075",
+      "pr-lesson-076",
+      "pr-lesson-077",
+      "pr-lesson-078"
+    ],
+    "summary": "时间块规划、日历管理、深度工作。"
   },
   {
     "id": "pr-course-07",
@@ -256,7 +352,23 @@
       "会做周计划",
       "养成好习惯"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "pr-lesson-079",
+      "pr-lesson-080",
+      "pr-lesson-081",
+      "pr-lesson-082",
+      "pr-lesson-083",
+      "pr-lesson-084",
+      "pr-lesson-085",
+      "pr-lesson-086",
+      "pr-lesson-087",
+      "pr-lesson-088",
+      "pr-lesson-089",
+      "pr-lesson-090",
+      "pr-lesson-091"
+    ],
+    "summary": "周计划结构、月计划模板、复盘方法。"
   },
   {
     "id": "pr-course-08",
@@ -293,7 +405,23 @@
       "会做周计划",
       "养成好习惯"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "pr-lesson-092",
+      "pr-lesson-093",
+      "pr-lesson-094",
+      "pr-lesson-095",
+      "pr-lesson-096",
+      "pr-lesson-097",
+      "pr-lesson-098",
+      "pr-lesson-099",
+      "pr-lesson-100",
+      "pr-lesson-101",
+      "pr-lesson-102",
+      "pr-lesson-103",
+      "pr-lesson-104"
+    ],
+    "summary": "习惯回路、原子习惯、打卡、追踪。"
   },
   {
     "id": "pr-course-09",
@@ -330,7 +458,23 @@
       "会做周计划",
       "养成好习惯"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "pr-lesson-105",
+      "pr-lesson-106",
+      "pr-lesson-107",
+      "pr-lesson-108",
+      "pr-lesson-109",
+      "pr-lesson-110",
+      "pr-lesson-111",
+      "pr-lesson-112",
+      "pr-lesson-113",
+      "pr-lesson-114",
+      "pr-lesson-115",
+      "pr-lesson-116",
+      "pr-lesson-117"
+    ],
+    "summary": "精力曲线、休息节奏、身体管理。"
   },
   {
     "id": "pr-course-10",
@@ -367,7 +511,23 @@
       "会做周计划",
       "养成好习惯"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "pr-lesson-118",
+      "pr-lesson-119",
+      "pr-lesson-120",
+      "pr-lesson-121",
+      "pr-lesson-122",
+      "pr-lesson-123",
+      "pr-lesson-124",
+      "pr-lesson-125",
+      "pr-lesson-126",
+      "pr-lesson-127",
+      "pr-lesson-128",
+      "pr-lesson-129",
+      "pr-lesson-130"
+    ],
+    "summary": "拖延原因、分心源、注意力恢复。"
   },
   {
     "id": "pr-course-11",
@@ -404,7 +564,23 @@
       "会做周计划",
       "养成好习惯"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "pr-lesson-131",
+      "pr-lesson-132",
+      "pr-lesson-133",
+      "pr-lesson-134",
+      "pr-lesson-135",
+      "pr-lesson-136",
+      "pr-lesson-137",
+      "pr-lesson-138",
+      "pr-lesson-139",
+      "pr-lesson-140",
+      "pr-lesson-141",
+      "pr-lesson-142",
+      "pr-lesson-143"
+    ],
+    "summary": "看板系统、泳道、WIP限制。"
   },
   {
     "id": "pr-course-12",
@@ -441,7 +617,23 @@
       "会做周计划",
       "养成好习惯"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "pr-lesson-144",
+      "pr-lesson-145",
+      "pr-lesson-146",
+      "pr-lesson-147",
+      "pr-lesson-148",
+      "pr-lesson-149",
+      "pr-lesson-150",
+      "pr-lesson-151",
+      "pr-lesson-152",
+      "pr-lesson-153",
+      "pr-lesson-154",
+      "pr-lesson-155",
+      "pr-lesson-156"
+    ],
+    "summary": "多重角色、时间分配、平衡策略。"
   },
   {
     "id": "pr-course-13",
@@ -478,7 +670,23 @@
       "会做周计划",
       "养成好习惯"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "pr-lesson-157",
+      "pr-lesson-158",
+      "pr-lesson-159",
+      "pr-lesson-160",
+      "pr-lesson-161",
+      "pr-lesson-162",
+      "pr-lesson-163",
+      "pr-lesson-164",
+      "pr-lesson-165",
+      "pr-lesson-166",
+      "pr-lesson-167",
+      "pr-lesson-168",
+      "pr-lesson-169"
+    ],
+    "summary": "Notion/Todoist/日历、自动化工作流。"
   },
   {
     "id": "pr-course-14",
@@ -515,6 +723,22 @@
       "会做周计划",
       "养成好习惯"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "pr-lesson-170",
+      "pr-lesson-171",
+      "pr-lesson-172",
+      "pr-lesson-173",
+      "pr-lesson-174",
+      "pr-lesson-175",
+      "pr-lesson-176",
+      "pr-lesson-177",
+      "pr-lesson-178",
+      "pr-lesson-179",
+      "pr-lesson-180",
+      "pr-lesson-181",
+      "pr-lesson-182"
+    ],
+    "summary": "长期规划、成长系统、年度复盘。"
   }
 ]
