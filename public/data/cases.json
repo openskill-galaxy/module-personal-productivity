@@ -5,11 +5,7 @@
     "description": "通过大学生一周计划掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-002690",
-      "pr-q-001219",
-      "pr-q-003191"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "大学生一周计划"
     ],
@@ -29,11 +25,7 @@
     "description": "通过期末复习计划掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-000026",
-      "pr-q-001684",
-      "pr-q-000144"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "期末复习计划"
     ],
@@ -53,11 +45,7 @@
     "description": "通过考研长期计划掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-002500",
-      "pr-q-002157",
-      "pr-q-002534"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "考研长期计划"
     ],
@@ -77,11 +65,7 @@
     "description": "通过编程学习日程掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-000701",
-      "pr-q-000291",
-      "pr-q-002052"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "编程学习日程"
     ],
@@ -101,11 +85,7 @@
     "description": "通过项目开发排期掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-000793",
-      "pr-q-001487",
-      "pr-q-000046"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "项目开发排期"
     ],
@@ -125,11 +105,7 @@
     "description": "通过求职投递节奏掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-000738",
-      "pr-q-001208",
-      "pr-q-001052"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "求职投递节奏"
     ],
@@ -149,11 +125,7 @@
     "description": "通过面试复盘掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-001671",
-      "pr-q-000391",
-      "pr-q-002194"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "面试复盘"
     ],
@@ -173,11 +145,7 @@
     "description": "通过拖延修复掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-003138",
-      "pr-q-000585",
-      "pr-q-001920"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "拖延修复"
     ],
@@ -197,11 +165,7 @@
     "description": "通过熬夜修复掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-000983",
-      "pr-q-000779",
-      "pr-q-002316"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "熬夜修复"
     ],
@@ -221,11 +185,7 @@
     "description": "通过周计划模板掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-002001",
-      "pr-q-002121",
-      "pr-q-002871"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "周计划模板"
     ],
@@ -245,11 +205,7 @@
     "description": "通过月计划模板掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-001911",
-      "pr-q-001475",
-      "pr-q-001536"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "月计划模板"
     ],
@@ -269,11 +225,7 @@
     "description": "通过个人看板掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-000936",
-      "pr-q-002431",
-      "pr-q-001984"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "个人看板"
     ],
@@ -293,11 +245,7 @@
     "description": "通过GTD收集箱掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-002191",
-      "pr-q-002615",
-      "pr-q-000012"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "GTD收集箱"
     ],
@@ -317,11 +265,7 @@
     "description": "通过OKR设定掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-000598",
-      "pr-q-000780",
-      "pr-q-003387"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "OKR设定"
     ],
@@ -341,11 +285,7 @@
     "description": "通过习惯打卡掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-001412",
-      "pr-q-001281",
-      "pr-q-002565"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "习惯打卡"
     ],
@@ -365,11 +305,7 @@
     "description": "通过时间块安排掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-003253",
-      "pr-q-001435",
-      "pr-q-002709"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "时间块安排"
     ],
@@ -389,11 +325,7 @@
     "description": "通过深度工作掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-001644",
-      "pr-q-001023",
-      "pr-q-000321"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "深度工作"
     ],
@@ -413,11 +345,7 @@
     "description": "通过自动化效率系统掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-001709",
-      "pr-q-000372",
-      "pr-q-001178"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "自动化效率系统"
     ],
@@ -437,11 +365,7 @@
     "description": "通过大学生一周计划掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-003315",
-      "pr-q-000671",
-      "pr-q-003079"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "大学生一周计划"
     ],
@@ -461,11 +385,7 @@
     "description": "通过期末复习计划掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-000800",
-      "pr-q-000032",
-      "pr-q-003204"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "期末复习计划"
     ],
@@ -485,11 +405,7 @@
     "description": "通过考研长期计划掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-000190",
-      "pr-q-003363",
-      "pr-q-001006"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "考研长期计划"
     ],
@@ -509,11 +425,7 @@
     "description": "通过编程学习日程掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-002603",
-      "pr-q-001166",
-      "pr-q-002297"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "编程学习日程"
     ],
@@ -533,11 +445,7 @@
     "description": "通过项目开发排期掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-000447",
-      "pr-q-000822",
-      "pr-q-002513"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "项目开发排期"
     ],
@@ -557,11 +465,7 @@
     "description": "通过求职投递节奏掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-003413",
-      "pr-q-003210",
-      "pr-q-000833"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "求职投递节奏"
     ],
@@ -581,11 +485,7 @@
     "description": "通过面试复盘掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-002079",
-      "pr-q-002985",
-      "pr-q-003047"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "面试复盘"
     ],
@@ -605,11 +505,7 @@
     "description": "通过拖延修复掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-003333",
-      "pr-q-002118",
-      "pr-q-001837"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "拖延修复"
     ],
@@ -629,11 +525,7 @@
     "description": "通过熬夜修复掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-001371",
-      "pr-q-002656",
-      "pr-q-002238"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "熬夜修复"
     ],
@@ -653,11 +545,7 @@
     "description": "通过周计划模板掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-001707",
-      "pr-q-001855",
-      "pr-q-002955"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "周计划模板"
     ],
@@ -677,11 +565,7 @@
     "description": "通过月计划模板掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-003054",
-      "pr-q-003086",
-      "pr-q-002976"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "月计划模板"
     ],
@@ -701,11 +585,7 @@
     "description": "通过个人看板掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-001364",
-      "pr-q-003195",
-      "pr-q-001782"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "个人看板"
     ],
@@ -725,11 +605,7 @@
     "description": "通过GTD收集箱掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-000999",
-      "pr-q-001015",
-      "pr-q-000945"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "GTD收集箱"
     ],
@@ -749,11 +625,7 @@
     "description": "通过OKR设定掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-001233",
-      "pr-q-000127",
-      "pr-q-001040"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "OKR设定"
     ],
@@ -773,11 +645,7 @@
     "description": "通过习惯打卡掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-001350",
-      "pr-q-001944",
-      "pr-q-000616"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "习惯打卡"
     ],
@@ -797,11 +665,7 @@
     "description": "通过时间块安排掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-002020",
-      "pr-q-001927",
-      "pr-q-000146"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "时间块安排"
     ],
@@ -821,11 +685,7 @@
     "description": "通过深度工作掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-002369",
-      "pr-q-003197",
-      "pr-q-003003"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "深度工作"
     ],
@@ -845,11 +705,7 @@
     "description": "通过自动化效率系统掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-002608",
-      "pr-q-001477",
-      "pr-q-000615"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "自动化效率系统"
     ],
@@ -869,11 +725,7 @@
     "description": "通过大学生一周计划掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-000093",
-      "pr-q-000134",
-      "pr-q-001337"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "大学生一周计划"
     ],
@@ -893,11 +745,7 @@
     "description": "通过期末复习计划掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-000833",
-      "pr-q-001447",
-      "pr-q-003244"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "期末复习计划"
     ],
@@ -917,11 +765,7 @@
     "description": "通过考研长期计划掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-001488",
-      "pr-q-001153",
-      "pr-q-000078"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "考研长期计划"
     ],
@@ -941,11 +785,7 @@
     "description": "通过编程学习日程掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-000252",
-      "pr-q-000248",
-      "pr-q-001874"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "编程学习日程"
     ],
@@ -965,11 +805,7 @@
     "description": "通过项目开发排期掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-001240",
-      "pr-q-000310",
-      "pr-q-002130"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "项目开发排期"
     ],
@@ -989,11 +825,7 @@
     "description": "通过求职投递节奏掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-002025",
-      "pr-q-002843",
-      "pr-q-002807"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "求职投递节奏"
     ],
@@ -1013,11 +845,7 @@
     "description": "通过面试复盘掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-001752",
-      "pr-q-001794",
-      "pr-q-003352"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "面试复盘"
     ],
@@ -1037,11 +865,7 @@
     "description": "通过拖延修复掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-001873",
-      "pr-q-002558",
-      "pr-q-000291"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "拖延修复"
     ],
@@ -1061,11 +885,7 @@
     "description": "通过熬夜修复掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-003018",
-      "pr-q-001138",
-      "pr-q-002268"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "熬夜修复"
     ],
@@ -1085,11 +905,7 @@
     "description": "通过周计划模板掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-002422",
-      "pr-q-002921",
-      "pr-q-000596"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "周计划模板"
     ],
@@ -1109,11 +925,7 @@
     "description": "通过月计划模板掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-001903",
-      "pr-q-000416",
-      "pr-q-001399"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "月计划模板"
     ],
@@ -1133,11 +945,7 @@
     "description": "通过个人看板掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-000685",
-      "pr-q-002763",
-      "pr-q-003427"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "个人看板"
     ],
@@ -1157,11 +965,7 @@
     "description": "通过GTD收集箱掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-003436",
-      "pr-q-002620",
-      "pr-q-001208"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "GTD收集箱"
     ],
@@ -1181,11 +985,7 @@
     "description": "通过OKR设定掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-001246",
-      "pr-q-002941",
-      "pr-q-001218"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "OKR设定"
     ],
@@ -1205,11 +1005,7 @@
     "description": "通过习惯打卡掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-003197",
-      "pr-q-001102",
-      "pr-q-002884"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "习惯打卡"
     ],
@@ -1229,11 +1025,7 @@
     "description": "通过时间块安排掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-002591",
-      "pr-q-002028",
-      "pr-q-001838"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "时间块安排"
     ],
@@ -1253,11 +1045,7 @@
     "description": "通过深度工作掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-001099",
-      "pr-q-001560",
-      "pr-q-000138"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "深度工作"
     ],
@@ -1277,11 +1065,7 @@
     "description": "通过自动化效率系统掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-001084",
-      "pr-q-002355",
-      "pr-q-003065"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "自动化效率系统"
     ],
@@ -1301,11 +1085,7 @@
     "description": "通过大学生一周计划掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-001221",
-      "pr-q-000373",
-      "pr-q-002828"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "大学生一周计划"
     ],
@@ -1325,11 +1105,7 @@
     "description": "通过期末复习计划掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-001369",
-      "pr-q-003175",
-      "pr-q-002439"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "期末复习计划"
     ],
@@ -1349,11 +1125,7 @@
     "description": "通过考研长期计划掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-000946",
-      "pr-q-000415",
-      "pr-q-003097"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "考研长期计划"
     ],
@@ -1373,11 +1145,7 @@
     "description": "通过编程学习日程掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-002480",
-      "pr-q-003281",
-      "pr-q-001229"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "编程学习日程"
     ],
@@ -1397,11 +1165,7 @@
     "description": "通过项目开发排期掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-001178",
-      "pr-q-002693",
-      "pr-q-001180"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "项目开发排期"
     ],
@@ -1421,11 +1185,7 @@
     "description": "通过求职投递节奏掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-000913",
-      "pr-q-001623",
-      "pr-q-001821"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "求职投递节奏"
     ],
@@ -1445,11 +1205,7 @@
     "description": "通过面试复盘掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-001188",
-      "pr-q-000430",
-      "pr-q-002967"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "面试复盘"
     ],
@@ -1469,11 +1225,7 @@
     "description": "通过拖延修复掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-000895",
-      "pr-q-002877",
-      "pr-q-001375"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "拖延修复"
     ],
@@ -1493,11 +1245,7 @@
     "description": "通过熬夜修复掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-001152",
-      "pr-q-001521",
-      "pr-q-002891"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "熬夜修复"
     ],
@@ -1517,11 +1265,7 @@
     "description": "通过周计划模板掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-002988",
-      "pr-q-000126",
-      "pr-q-002296"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "周计划模板"
     ],
@@ -1541,11 +1285,7 @@
     "description": "通过月计划模板掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-003302",
-      "pr-q-003414",
-      "pr-q-003009"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "月计划模板"
     ],
@@ -1565,11 +1305,7 @@
     "description": "通过个人看板掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-001879",
-      "pr-q-001489",
-      "pr-q-003380"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "个人看板"
     ],
@@ -1589,11 +1325,7 @@
     "description": "通过GTD收集箱掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-000684",
-      "pr-q-002410",
-      "pr-q-002198"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "GTD收集箱"
     ],
@@ -1613,11 +1345,7 @@
     "description": "通过OKR设定掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-002686",
-      "pr-q-000195",
-      "pr-q-003385"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "OKR设定"
     ],
@@ -1637,11 +1365,7 @@
     "description": "通过习惯打卡掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-000325",
-      "pr-q-001188",
-      "pr-q-002430"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "习惯打卡"
     ],
@@ -1661,11 +1385,7 @@
     "description": "通过时间块安排掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-000956",
-      "pr-q-000298",
-      "pr-q-001943"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "时间块安排"
     ],
@@ -1685,11 +1405,7 @@
     "description": "通过深度工作掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-003398",
-      "pr-q-000931",
-      "pr-q-001219"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "深度工作"
     ],
@@ -1709,11 +1425,7 @@
     "description": "通过自动化效率系统掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-000827",
-      "pr-q-002587",
-      "pr-q-000468"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "自动化效率系统"
     ],
@@ -1733,11 +1445,7 @@
     "description": "通过大学生一周计划掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-002145",
-      "pr-q-001086",
-      "pr-q-002976"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "大学生一周计划"
     ],
@@ -1757,11 +1465,7 @@
     "description": "通过期末复习计划掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-002874",
-      "pr-q-002915",
-      "pr-q-000539"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "期末复习计划"
     ],
@@ -1781,11 +1485,7 @@
     "description": "通过考研长期计划掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-001353",
-      "pr-q-001903",
-      "pr-q-002452"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "考研长期计划"
     ],
@@ -1805,11 +1505,7 @@
     "description": "通过编程学习日程掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-000164",
-      "pr-q-003298",
-      "pr-q-000151"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "编程学习日程"
     ],
@@ -1829,11 +1525,7 @@
     "description": "通过项目开发排期掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-002730",
-      "pr-q-000452",
-      "pr-q-003358"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "项目开发排期"
     ],
@@ -1853,11 +1545,7 @@
     "description": "通过求职投递节奏掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-002784",
-      "pr-q-002887",
-      "pr-q-001977"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "求职投递节奏"
     ],
@@ -1877,11 +1565,7 @@
     "description": "通过面试复盘掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-002029",
-      "pr-q-001325",
-      "pr-q-001026"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "面试复盘"
     ],
@@ -1901,11 +1585,7 @@
     "description": "通过拖延修复掌握效率",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "pr-q-000856",
-      "pr-q-000573",
-      "pr-q-002280"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "拖延修复"
     ],
@@ -1925,11 +1605,7 @@
     "description": "通过熬夜修复掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-000624",
-      "pr-q-001573",
-      "pr-q-003257"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "熬夜修复"
     ],
@@ -1949,11 +1625,7 @@
     "description": "通过周计划模板掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-000306",
-      "pr-q-002768",
-      "pr-q-000304"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "周计划模板"
     ],
@@ -1973,11 +1645,7 @@
     "description": "通过月计划模板掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-001605",
-      "pr-q-001992",
-      "pr-q-003248"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "月计划模板"
     ],
@@ -1997,11 +1665,7 @@
     "description": "通过个人看板掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-003205",
-      "pr-q-001170",
-      "pr-q-002277"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "个人看板"
     ],
@@ -2021,11 +1685,7 @@
     "description": "通过GTD收集箱掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-000927",
-      "pr-q-003084",
-      "pr-q-000727"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "GTD收集箱"
     ],
@@ -2045,11 +1705,7 @@
     "description": "通过OKR设定掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-001393",
-      "pr-q-002922",
-      "pr-q-000774"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "OKR设定"
     ],
@@ -2069,11 +1725,7 @@
     "description": "通过习惯打卡掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-003414",
-      "pr-q-001014",
-      "pr-q-002380"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "习惯打卡"
     ],
@@ -2093,11 +1745,7 @@
     "description": "通过时间块安排掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-001177",
-      "pr-q-002745",
-      "pr-q-001697"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "时间块安排"
     ],
@@ -2117,11 +1765,7 @@
     "description": "通过深度工作掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-001806",
-      "pr-q-000451",
-      "pr-q-000121"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "深度工作"
     ],
@@ -2141,11 +1785,7 @@
     "description": "通过自动化效率系统掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-003126",
-      "pr-q-002603",
-      "pr-q-002852"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "自动化效率系统"
     ],
@@ -2165,11 +1805,7 @@
     "description": "通过大学生一周计划掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-001594",
-      "pr-q-000625",
-      "pr-q-000112"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "大学生一周计划"
     ],
@@ -2189,11 +1825,7 @@
     "description": "通过期末复习计划掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-002720",
-      "pr-q-002521",
-      "pr-q-000843"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "期末复习计划"
     ],
@@ -2213,11 +1845,7 @@
     "description": "通过考研长期计划掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-000353",
-      "pr-q-003430",
-      "pr-q-000204"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "考研长期计划"
     ],
@@ -2237,11 +1865,7 @@
     "description": "通过编程学习日程掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-002309",
-      "pr-q-002095",
-      "pr-q-003036"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "编程学习日程"
     ],
@@ -2261,11 +1885,7 @@
     "description": "通过项目开发排期掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-001688",
-      "pr-q-001517",
-      "pr-q-002518"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "项目开发排期"
     ],
@@ -2285,11 +1905,7 @@
     "description": "通过求职投递节奏掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-003468",
-      "pr-q-002539",
-      "pr-q-001952"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "求职投递节奏"
     ],
@@ -2309,11 +1925,7 @@
     "description": "通过面试复盘掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-001843",
-      "pr-q-001628",
-      "pr-q-001076"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "面试复盘"
     ],
@@ -2333,11 +1945,7 @@
     "description": "通过拖延修复掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-000382",
-      "pr-q-000601",
-      "pr-q-000995"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "拖延修复"
     ],
@@ -2357,11 +1965,7 @@
     "description": "通过熬夜修复掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-002065",
-      "pr-q-000782",
-      "pr-q-000480"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "熬夜修复"
     ],
@@ -2381,11 +1985,7 @@
     "description": "通过周计划模板掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-003288",
-      "pr-q-001252",
-      "pr-q-000799"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "周计划模板"
     ],
@@ -2405,11 +2005,7 @@
     "description": "通过月计划模板掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-002459",
-      "pr-q-000821",
-      "pr-q-003187"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "月计划模板"
     ],
@@ -2429,11 +2025,7 @@
     "description": "通过个人看板掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-000563",
-      "pr-q-002498",
-      "pr-q-001150"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "个人看板"
     ],
@@ -2453,11 +2045,7 @@
     "description": "通过GTD收集箱掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-000436",
-      "pr-q-001346",
-      "pr-q-001632"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "GTD收集箱"
     ],
@@ -2477,11 +2065,7 @@
     "description": "通过OKR设定掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-001286",
-      "pr-q-002807",
-      "pr-q-000703"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "OKR设定"
     ],
@@ -2501,11 +2085,7 @@
     "description": "通过习惯打卡掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-000691",
-      "pr-q-002180",
-      "pr-q-000677"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "习惯打卡"
     ],
@@ -2525,11 +2105,7 @@
     "description": "通过时间块安排掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-001008",
-      "pr-q-000636",
-      "pr-q-001313"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "时间块安排"
     ],
@@ -2549,11 +2125,7 @@
     "description": "通过深度工作掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-001388",
-      "pr-q-000846",
-      "pr-q-000014"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "深度工作"
     ],
@@ -2573,11 +2145,7 @@
     "description": "通过自动化效率系统掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-002698",
-      "pr-q-002991",
-      "pr-q-001471"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "自动化效率系统"
     ],
@@ -2597,11 +2165,7 @@
     "description": "通过大学生一周计划掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-001875",
-      "pr-q-002790",
-      "pr-q-002507"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "大学生一周计划"
     ],
@@ -2621,11 +2185,7 @@
     "description": "通过期末复习计划掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-002650",
-      "pr-q-001249",
-      "pr-q-002819"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "期末复习计划"
     ],
@@ -2645,11 +2205,7 @@
     "description": "通过考研长期计划掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-001767",
-      "pr-q-002209",
-      "pr-q-002050"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "考研长期计划"
     ],
@@ -2669,11 +2225,7 @@
     "description": "通过编程学习日程掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-000687",
-      "pr-q-001398",
-      "pr-q-002616"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "编程学习日程"
     ],
@@ -2693,11 +2245,7 @@
     "description": "通过项目开发排期掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-001989",
-      "pr-q-000405",
-      "pr-q-002323"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "项目开发排期"
     ],
@@ -2717,11 +2265,7 @@
     "description": "通过求职投递节奏掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-000864",
-      "pr-q-000995",
-      "pr-q-002300"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "求职投递节奏"
     ],
@@ -2741,11 +2285,7 @@
     "description": "通过面试复盘掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-003415",
-      "pr-q-000159",
-      "pr-q-002657"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "面试复盘"
     ],
@@ -2765,11 +2305,7 @@
     "description": "通过拖延修复掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-000183",
-      "pr-q-001038",
-      "pr-q-000918"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "拖延修复"
     ],
@@ -2789,11 +2325,7 @@
     "description": "通过熬夜修复掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-001236",
-      "pr-q-003314",
-      "pr-q-000800"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "熬夜修复"
     ],
@@ -2813,11 +2345,7 @@
     "description": "通过周计划模板掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-000020",
-      "pr-q-000145",
-      "pr-q-000468"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "周计划模板"
     ],
@@ -2837,11 +2365,7 @@
     "description": "通过月计划模板掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-003418",
-      "pr-q-002920",
-      "pr-q-000092"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "月计划模板"
     ],
@@ -2861,11 +2385,7 @@
     "description": "通过个人看板掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-002200",
-      "pr-q-003029",
-      "pr-q-000406"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "个人看板"
     ],
@@ -2885,11 +2405,7 @@
     "description": "通过GTD收集箱掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-001954",
-      "pr-q-000259",
-      "pr-q-001252"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "GTD收集箱"
     ],
@@ -2909,11 +2425,7 @@
     "description": "通过OKR设定掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-002078",
-      "pr-q-002565",
-      "pr-q-000384"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "OKR设定"
     ],
@@ -2933,11 +2445,7 @@
     "description": "通过习惯打卡掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-002662",
-      "pr-q-000128",
-      "pr-q-002884"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "习惯打卡"
     ],
@@ -2957,11 +2465,7 @@
     "description": "通过时间块安排掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-003248",
-      "pr-q-000735",
-      "pr-q-002011"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "时间块安排"
     ],
@@ -2981,11 +2485,7 @@
     "description": "通过深度工作掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-002300",
-      "pr-q-002026",
-      "pr-q-001051"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "深度工作"
     ],
@@ -3005,11 +2505,7 @@
     "description": "通过自动化效率系统掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-003266",
-      "pr-q-002323",
-      "pr-q-003211"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "自动化效率系统"
     ],
@@ -3029,11 +2525,7 @@
     "description": "通过大学生一周计划掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-003385",
-      "pr-q-002829",
-      "pr-q-002818"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "大学生一周计划"
     ],
@@ -3053,11 +2545,7 @@
     "description": "通过期末复习计划掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-001652",
-      "pr-q-000045",
-      "pr-q-002868"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "期末复习计划"
     ],
@@ -3077,11 +2565,7 @@
     "description": "通过考研长期计划掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-000764",
-      "pr-q-003122",
-      "pr-q-003193"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "考研长期计划"
     ],
@@ -3101,11 +2585,7 @@
     "description": "通过编程学习日程掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-000347",
-      "pr-q-002572",
-      "pr-q-001054"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "编程学习日程"
     ],
@@ -3125,11 +2605,7 @@
     "description": "通过项目开发排期掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-001002",
-      "pr-q-001517",
-      "pr-q-002565"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "项目开发排期"
     ],
@@ -3149,11 +2625,7 @@
     "description": "通过求职投递节奏掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-002550",
-      "pr-q-003315",
-      "pr-q-001562"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "求职投递节奏"
     ],
@@ -3173,11 +2645,7 @@
     "description": "通过面试复盘掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-002821",
-      "pr-q-002480",
-      "pr-q-000104"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "面试复盘"
     ],
@@ -3197,11 +2665,7 @@
     "description": "通过拖延修复掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-000089",
-      "pr-q-000410",
-      "pr-q-000352"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "拖延修复"
     ],
@@ -3221,11 +2685,7 @@
     "description": "通过熬夜修复掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-001302",
-      "pr-q-001371",
-      "pr-q-003492"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "熬夜修复"
     ],
@@ -3245,11 +2705,7 @@
     "description": "通过周计划模板掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-002145",
-      "pr-q-001306",
-      "pr-q-002105"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "周计划模板"
     ],
@@ -3269,11 +2725,7 @@
     "description": "通过月计划模板掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-001021",
-      "pr-q-000850",
-      "pr-q-000465"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "月计划模板"
     ],
@@ -3293,11 +2745,7 @@
     "description": "通过个人看板掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-000321",
-      "pr-q-002795",
-      "pr-q-001295"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "个人看板"
     ],
@@ -3317,11 +2765,7 @@
     "description": "通过GTD收集箱掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-001501",
-      "pr-q-003447",
-      "pr-q-000953"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "GTD收集箱"
     ],
@@ -3341,11 +2785,7 @@
     "description": "通过OKR设定掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-000152",
-      "pr-q-000806",
-      "pr-q-000620"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "OKR设定"
     ],
@@ -3365,11 +2805,7 @@
     "description": "通过习惯打卡掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-000418",
-      "pr-q-001143",
-      "pr-q-001201"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "习惯打卡"
     ],
@@ -3389,11 +2825,7 @@
     "description": "通过时间块安排掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-003013",
-      "pr-q-003233",
-      "pr-q-000694"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "时间块安排"
     ],
@@ -3413,11 +2845,7 @@
     "description": "通过深度工作掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-003477",
-      "pr-q-002517",
-      "pr-q-001663"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "深度工作"
     ],
@@ -3437,11 +2865,7 @@
     "description": "通过自动化效率系统掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-001002",
-      "pr-q-002805",
-      "pr-q-000512"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "自动化效率系统"
     ],
@@ -3461,11 +2885,7 @@
     "description": "通过大学生一周计划掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-001943",
-      "pr-q-000801",
-      "pr-q-001566"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "大学生一周计划"
     ],
@@ -3485,11 +2905,7 @@
     "description": "通过期末复习计划掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-001575",
-      "pr-q-003438",
-      "pr-q-002195"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "期末复习计划"
     ],
@@ -3509,11 +2925,7 @@
     "description": "通过考研长期计划掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-002636",
-      "pr-q-001914",
-      "pr-q-000694"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "考研长期计划"
     ],
@@ -3533,11 +2945,7 @@
     "description": "通过编程学习日程掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-001168",
-      "pr-q-001699",
-      "pr-q-001642"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "编程学习日程"
     ],
@@ -3557,11 +2965,7 @@
     "description": "通过项目开发排期掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-002907",
-      "pr-q-001986",
-      "pr-q-002600"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "项目开发排期"
     ],
@@ -3581,11 +2985,7 @@
     "description": "通过求职投递节奏掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-002753",
-      "pr-q-000576",
-      "pr-q-001148"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "求职投递节奏"
     ],
@@ -3605,11 +3005,7 @@
     "description": "通过面试复盘掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-000666",
-      "pr-q-003102",
-      "pr-q-000568"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "面试复盘"
     ],
@@ -3629,11 +3025,7 @@
     "description": "通过拖延修复掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-001859",
-      "pr-q-002786",
-      "pr-q-002690"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "拖延修复"
     ],
@@ -3653,11 +3045,7 @@
     "description": "通过熬夜修复掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-001815",
-      "pr-q-002980",
-      "pr-q-003372"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "熬夜修复"
     ],
@@ -3677,11 +3065,7 @@
     "description": "通过周计划模板掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-001044",
-      "pr-q-000291",
-      "pr-q-001812"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "周计划模板"
     ],
@@ -3701,11 +3085,7 @@
     "description": "通过月计划模板掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-000815",
-      "pr-q-001598",
-      "pr-q-001698"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "月计划模板"
     ],
@@ -3725,11 +3105,7 @@
     "description": "通过个人看板掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-003261",
-      "pr-q-001335",
-      "pr-q-001104"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "个人看板"
     ],
@@ -3749,11 +3125,7 @@
     "description": "通过GTD收集箱掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-001239",
-      "pr-q-001122",
-      "pr-q-000365"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "GTD收集箱"
     ],
@@ -3773,11 +3145,7 @@
     "description": "通过OKR设定掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-002242",
-      "pr-q-000382",
-      "pr-q-000275"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "OKR设定"
     ],
@@ -3797,11 +3165,7 @@
     "description": "通过习惯打卡掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-001126",
-      "pr-q-002826",
-      "pr-q-001237"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "习惯打卡"
     ],
@@ -3821,11 +3185,7 @@
     "description": "通过时间块安排掌握效率",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "pr-q-002491",
-      "pr-q-000839",
-      "pr-q-001053"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "时间块安排"
     ],
@@ -3845,11 +3205,7 @@
     "description": "通过深度工作掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-001869",
-      "pr-q-002963",
-      "pr-q-002541"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "深度工作"
     ],
@@ -3869,11 +3225,7 @@
     "description": "通过自动化效率系统掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-000578",
-      "pr-q-001355",
-      "pr-q-000333"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "自动化效率系统"
     ],
@@ -3893,11 +3245,7 @@
     "description": "通过大学生一周计划掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-002226",
-      "pr-q-001069",
-      "pr-q-000272"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "大学生一周计划"
     ],
@@ -3917,11 +3265,7 @@
     "description": "通过期末复习计划掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-000181",
-      "pr-q-002512",
-      "pr-q-000111"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "期末复习计划"
     ],
@@ -3941,11 +3285,7 @@
     "description": "通过考研长期计划掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-002130",
-      "pr-q-000556",
-      "pr-q-002564"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "考研长期计划"
     ],
@@ -3965,11 +3305,7 @@
     "description": "通过编程学习日程掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-000728",
-      "pr-q-002485",
-      "pr-q-002302"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "编程学习日程"
     ],
@@ -3989,11 +3325,7 @@
     "description": "通过项目开发排期掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-002705",
-      "pr-q-003453",
-      "pr-q-000867"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "项目开发排期"
     ],
@@ -4013,11 +3345,7 @@
     "description": "通过求职投递节奏掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-000946",
-      "pr-q-002052",
-      "pr-q-002484"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "求职投递节奏"
     ],
@@ -4037,11 +3365,7 @@
     "description": "通过面试复盘掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-001217",
-      "pr-q-000108",
-      "pr-q-001284"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "面试复盘"
     ],
@@ -4061,11 +3385,7 @@
     "description": "通过拖延修复掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-001350",
-      "pr-q-000545",
-      "pr-q-002480"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "拖延修复"
     ],
@@ -4085,11 +3405,7 @@
     "description": "通过熬夜修复掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-000353",
-      "pr-q-001600",
-      "pr-q-002707"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "熬夜修复"
     ],
@@ -4109,11 +3425,7 @@
     "description": "通过周计划模板掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-003414",
-      "pr-q-001986",
-      "pr-q-002012"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "周计划模板"
     ],
@@ -4133,11 +3445,7 @@
     "description": "通过月计划模板掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-000006",
-      "pr-q-002022",
-      "pr-q-002899"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "月计划模板"
     ],
@@ -4157,11 +3465,7 @@
     "description": "通过个人看板掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-002479",
-      "pr-q-000208",
-      "pr-q-002686"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "个人看板"
     ],
@@ -4181,11 +3485,7 @@
     "description": "通过GTD收集箱掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-002111",
-      "pr-q-000018",
-      "pr-q-001643"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "GTD收集箱"
     ],
@@ -4205,11 +3505,7 @@
     "description": "通过OKR设定掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-003338",
-      "pr-q-001470",
-      "pr-q-002040"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "OKR设定"
     ],
@@ -4229,11 +3525,7 @@
     "description": "通过习惯打卡掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-003041",
-      "pr-q-000531",
-      "pr-q-001651"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "习惯打卡"
     ],
@@ -4253,11 +3545,7 @@
     "description": "通过时间块安排掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-002654",
-      "pr-q-002916",
-      "pr-q-002910"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "时间块安排"
     ],
@@ -4277,11 +3565,7 @@
     "description": "通过深度工作掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-003065",
-      "pr-q-002727",
-      "pr-q-000963"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "深度工作"
     ],
@@ -4301,11 +3585,7 @@
     "description": "通过自动化效率系统掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-000546",
-      "pr-q-001598",
-      "pr-q-002447"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "自动化效率系统"
     ],
@@ -4325,11 +3605,7 @@
     "description": "通过大学生一周计划掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-003120",
-      "pr-q-000067",
-      "pr-q-001019"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "大学生一周计划"
     ],
@@ -4349,11 +3625,7 @@
     "description": "通过期末复习计划掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-000155",
-      "pr-q-002873",
-      "pr-q-003463"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "期末复习计划"
     ],
@@ -4373,11 +3645,7 @@
     "description": "通过考研长期计划掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-001282",
-      "pr-q-001856",
-      "pr-q-003132"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "考研长期计划"
     ],
@@ -4397,11 +3665,7 @@
     "description": "通过编程学习日程掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-000104",
-      "pr-q-000458",
-      "pr-q-000116"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "编程学习日程"
     ],
@@ -4421,11 +3685,7 @@
     "description": "通过项目开发排期掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-000997",
-      "pr-q-002379",
-      "pr-q-000304"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "项目开发排期"
     ],
@@ -4445,11 +3705,7 @@
     "description": "通过求职投递节奏掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-001876",
-      "pr-q-000102",
-      "pr-q-001390"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "求职投递节奏"
     ],
@@ -4469,11 +3725,7 @@
     "description": "通过面试复盘掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-000698",
-      "pr-q-000037",
-      "pr-q-002143"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "面试复盘"
     ],
@@ -4493,11 +3745,7 @@
     "description": "通过拖延修复掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-003494",
-      "pr-q-001827",
-      "pr-q-000202"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "拖延修复"
     ],
@@ -4517,11 +3765,7 @@
     "description": "通过熬夜修复掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-000083",
-      "pr-q-001483",
-      "pr-q-002219"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "熬夜修复"
     ],
@@ -4541,11 +3785,7 @@
     "description": "通过周计划模板掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-000519",
-      "pr-q-002831",
-      "pr-q-000568"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "周计划模板"
     ],
@@ -4565,11 +3805,7 @@
     "description": "通过月计划模板掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-001924",
-      "pr-q-001132",
-      "pr-q-001033"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "月计划模板"
     ],
@@ -4589,11 +3825,7 @@
     "description": "通过个人看板掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-003238",
-      "pr-q-003135",
-      "pr-q-000932"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "个人看板"
     ],
@@ -4613,11 +3845,7 @@
     "description": "通过GTD收集箱掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-000328",
-      "pr-q-002399",
-      "pr-q-001467"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "GTD收集箱"
     ],
@@ -4637,11 +3865,7 @@
     "description": "通过OKR设定掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-000998",
-      "pr-q-001220",
-      "pr-q-001903"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "OKR设定"
     ],
@@ -4661,11 +3885,7 @@
     "description": "通过习惯打卡掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-002472",
-      "pr-q-001238",
-      "pr-q-001717"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "习惯打卡"
     ],
@@ -4685,11 +3905,7 @@
     "description": "通过时间块安排掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-002062",
-      "pr-q-002805",
-      "pr-q-000703"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "时间块安排"
     ],
@@ -4709,11 +3925,7 @@
     "description": "通过深度工作掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-001563",
-      "pr-q-003058",
-      "pr-q-000290"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "深度工作"
     ],
@@ -4733,11 +3945,7 @@
     "description": "通过自动化效率系统掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-000984",
-      "pr-q-002757",
-      "pr-q-002543"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "自动化效率系统"
     ],
@@ -4757,11 +3965,7 @@
     "description": "通过大学生一周计划掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-000089",
-      "pr-q-001222",
-      "pr-q-002505"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "大学生一周计划"
     ],
@@ -4781,11 +3985,7 @@
     "description": "通过期末复习计划掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-001292",
-      "pr-q-000257",
-      "pr-q-003127"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "期末复习计划"
     ],
@@ -4805,11 +4005,7 @@
     "description": "通过考研长期计划掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-001172",
-      "pr-q-002740",
-      "pr-q-003110"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "考研长期计划"
     ],
@@ -4829,11 +4025,7 @@
     "description": "通过编程学习日程掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-000671",
-      "pr-q-002967",
-      "pr-q-002833"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "编程学习日程"
     ],
@@ -4853,11 +4045,7 @@
     "description": "通过项目开发排期掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-002967",
-      "pr-q-003018",
-      "pr-q-003250"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "项目开发排期"
     ],
@@ -4877,11 +4065,7 @@
     "description": "通过求职投递节奏掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-001908",
-      "pr-q-002481",
-      "pr-q-003025"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "求职投递节奏"
     ],
@@ -4901,11 +4085,7 @@
     "description": "通过面试复盘掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-001938",
-      "pr-q-000750",
-      "pr-q-001505"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "面试复盘"
     ],
@@ -4925,11 +4105,7 @@
     "description": "通过拖延修复掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-003476",
-      "pr-q-001877",
-      "pr-q-002933"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "拖延修复"
     ],
@@ -4949,11 +4125,7 @@
     "description": "通过熬夜修复掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-000791",
-      "pr-q-003452",
-      "pr-q-001293"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "熬夜修复"
     ],
@@ -4973,11 +4145,7 @@
     "description": "通过周计划模板掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-001739",
-      "pr-q-001684",
-      "pr-q-001714"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "周计划模板"
     ],
@@ -4997,11 +4165,7 @@
     "description": "通过月计划模板掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-002056",
-      "pr-q-002237",
-      "pr-q-001295"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "月计划模板"
     ],
@@ -5021,11 +4185,7 @@
     "description": "通过个人看板掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-000588",
-      "pr-q-002326",
-      "pr-q-003160"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "个人看板"
     ],
@@ -5045,11 +4205,7 @@
     "description": "通过GTD收集箱掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-002007",
-      "pr-q-003017",
-      "pr-q-001362"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "GTD收集箱"
     ],
@@ -5069,11 +4225,7 @@
     "description": "通过OKR设定掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-000150",
-      "pr-q-003161",
-      "pr-q-003068"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "OKR设定"
     ],
@@ -5093,11 +4245,7 @@
     "description": "通过习惯打卡掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-002651",
-      "pr-q-002663",
-      "pr-q-003175"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "习惯打卡"
     ],
@@ -5117,11 +4265,7 @@
     "description": "通过时间块安排掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-001642",
-      "pr-q-000468",
-      "pr-q-003427"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "时间块安排"
     ],
@@ -5141,11 +4285,7 @@
     "description": "通过深度工作掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-002541",
-      "pr-q-000650",
-      "pr-q-001513"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "深度工作"
     ],
@@ -5165,11 +4305,7 @@
     "description": "通过自动化效率系统掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-002241",
-      "pr-q-001514",
-      "pr-q-002383"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "自动化效率系统"
     ],
@@ -5189,11 +4325,7 @@
     "description": "通过大学生一周计划掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-002241",
-      "pr-q-002276",
-      "pr-q-002205"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "大学生一周计划"
     ],
@@ -5213,11 +4345,7 @@
     "description": "通过期末复习计划掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-003183",
-      "pr-q-002969",
-      "pr-q-002726"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "期末复习计划"
     ],
@@ -5237,11 +4365,7 @@
     "description": "通过考研长期计划掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-000437",
-      "pr-q-002141",
-      "pr-q-000868"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "考研长期计划"
     ],
@@ -5261,11 +4385,7 @@
     "description": "通过编程学习日程掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-000037",
-      "pr-q-003204",
-      "pr-q-002717"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "编程学习日程"
     ],
@@ -5285,11 +4405,7 @@
     "description": "通过项目开发排期掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-000128",
-      "pr-q-000446",
-      "pr-q-003024"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "项目开发排期"
     ],
@@ -5309,11 +4425,7 @@
     "description": "通过求职投递节奏掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-000225",
-      "pr-q-003182",
-      "pr-q-002369"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "求职投递节奏"
     ],
@@ -5333,11 +4445,7 @@
     "description": "通过面试复盘掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-002633",
-      "pr-q-002079",
-      "pr-q-002319"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "面试复盘"
     ],
@@ -5357,11 +4465,7 @@
     "description": "通过拖延修复掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-002179",
-      "pr-q-001738",
-      "pr-q-001200"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "拖延修复"
     ],
@@ -5381,11 +4485,7 @@
     "description": "通过熬夜修复掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-003374",
-      "pr-q-001386",
-      "pr-q-001370"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "熬夜修复"
     ],
@@ -5405,11 +4505,7 @@
     "description": "通过周计划模板掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-000915",
-      "pr-q-000375",
-      "pr-q-000327"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "周计划模板"
     ],
@@ -5429,11 +4525,7 @@
     "description": "通过月计划模板掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-003291",
-      "pr-q-000096",
-      "pr-q-001309"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "月计划模板"
     ],
@@ -5453,11 +4545,7 @@
     "description": "通过个人看板掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-001341",
-      "pr-q-002185",
-      "pr-q-002709"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "个人看板"
     ],
@@ -5477,11 +4565,7 @@
     "description": "通过GTD收集箱掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-002260",
-      "pr-q-003081",
-      "pr-q-001230"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "GTD收集箱"
     ],
@@ -5501,11 +4585,7 @@
     "description": "通过OKR设定掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-001196",
-      "pr-q-003270",
-      "pr-q-001275"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "OKR设定"
     ],
@@ -5525,11 +4605,7 @@
     "description": "通过习惯打卡掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-001669",
-      "pr-q-002016",
-      "pr-q-002383"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "习惯打卡"
     ],
@@ -5549,11 +4625,7 @@
     "description": "通过时间块安排掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-001524",
-      "pr-q-001615",
-      "pr-q-001521"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "时间块安排"
     ],
@@ -5573,11 +4645,7 @@
     "description": "通过深度工作掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-001352",
-      "pr-q-002043",
-      "pr-q-001759"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "深度工作"
     ],
@@ -5597,11 +4665,7 @@
     "description": "通过自动化效率系统掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-002767",
-      "pr-q-003244",
-      "pr-q-002065"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "自动化效率系统"
     ],
@@ -5621,11 +4685,7 @@
     "description": "通过大学生一周计划掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-002261",
-      "pr-q-000243",
-      "pr-q-002569"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "大学生一周计划"
     ],
@@ -5645,11 +4705,7 @@
     "description": "通过期末复习计划掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-003071",
-      "pr-q-001961",
-      "pr-q-001492"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "期末复习计划"
     ],
@@ -5669,11 +4725,7 @@
     "description": "通过考研长期计划掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-000662",
-      "pr-q-001957",
-      "pr-q-002102"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "考研长期计划"
     ],
@@ -5693,11 +4745,7 @@
     "description": "通过编程学习日程掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-001170",
-      "pr-q-002972",
-      "pr-q-000154"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "编程学习日程"
     ],
@@ -5717,11 +4765,7 @@
     "description": "通过项目开发排期掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-002922",
-      "pr-q-002128",
-      "pr-q-001280"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "项目开发排期"
     ],
@@ -5741,11 +4785,7 @@
     "description": "通过求职投递节奏掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-001079",
-      "pr-q-002059",
-      "pr-q-001792"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "求职投递节奏"
     ],
@@ -5765,11 +4805,7 @@
     "description": "通过面试复盘掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-003464",
-      "pr-q-000759",
-      "pr-q-000258"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "面试复盘"
     ],
@@ -5789,11 +4825,7 @@
     "description": "通过拖延修复掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-000582",
-      "pr-q-000082",
-      "pr-q-000253"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "拖延修复"
     ],
@@ -5813,11 +4845,7 @@
     "description": "通过熬夜修复掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-002969",
-      "pr-q-000960",
-      "pr-q-000632"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "熬夜修复"
     ],
@@ -5837,11 +4865,7 @@
     "description": "通过周计划模板掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-001866",
-      "pr-q-001890",
-      "pr-q-002123"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "周计划模板"
     ],
@@ -5861,11 +4885,7 @@
     "description": "通过月计划模板掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-003106",
-      "pr-q-002098",
-      "pr-q-002269"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "月计划模板"
     ],
@@ -5885,11 +4905,7 @@
     "description": "通过个人看板掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-000185",
-      "pr-q-000076",
-      "pr-q-002534"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "个人看板"
     ],
@@ -5909,11 +4925,7 @@
     "description": "通过GTD收集箱掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-000920",
-      "pr-q-003135",
-      "pr-q-000419"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "GTD收集箱"
     ],
@@ -5933,11 +4945,7 @@
     "description": "通过OKR设定掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-000498",
-      "pr-q-000813",
-      "pr-q-002460"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "OKR设定"
     ],
@@ -5957,11 +4965,7 @@
     "description": "通过习惯打卡掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-001296",
-      "pr-q-002878",
-      "pr-q-001375"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "习惯打卡"
     ],
@@ -5981,11 +4985,7 @@
     "description": "通过时间块安排掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-002848",
-      "pr-q-000381",
-      "pr-q-002266"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "时间块安排"
     ],
@@ -6005,11 +5005,7 @@
     "description": "通过深度工作掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-000830",
-      "pr-q-002426",
-      "pr-q-002354"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "深度工作"
     ],
@@ -6029,11 +5025,7 @@
     "description": "通过自动化效率系统掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-001002",
-      "pr-q-000047",
-      "pr-q-000445"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "自动化效率系统"
     ],
@@ -6053,11 +5045,7 @@
     "description": "通过大学生一周计划掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-001338",
-      "pr-q-001571",
-      "pr-q-000558"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "大学生一周计划"
     ],
@@ -6077,11 +5065,7 @@
     "description": "通过期末复习计划掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-001076",
-      "pr-q-002640",
-      "pr-q-000864"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "期末复习计划"
     ],
@@ -6101,11 +5085,7 @@
     "description": "通过考研长期计划掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-001705",
-      "pr-q-001388",
-      "pr-q-001707"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "考研长期计划"
     ],
@@ -6125,11 +5105,7 @@
     "description": "通过编程学习日程掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-001080",
-      "pr-q-002523",
-      "pr-q-002826"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "编程学习日程"
     ],
@@ -6149,11 +5125,7 @@
     "description": "通过项目开发排期掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-002437",
-      "pr-q-002242",
-      "pr-q-000430"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "项目开发排期"
     ],
@@ -6173,11 +5145,7 @@
     "description": "通过求职投递节奏掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-003459",
-      "pr-q-002218",
-      "pr-q-002493"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "求职投递节奏"
     ],
@@ -6197,11 +5165,7 @@
     "description": "通过面试复盘掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-003003",
-      "pr-q-002907",
-      "pr-q-002007"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "面试复盘"
     ],
@@ -6221,11 +5185,7 @@
     "description": "通过拖延修复掌握效率",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "pr-q-001022",
-      "pr-q-002450",
-      "pr-q-002517"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "拖延修复"
     ],

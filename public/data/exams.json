@@ -1,31 +1,64 @@
 [
   {
     "id": "mod-personal-productivity-exam-1",
-    "slug": "final-exam",
-    "title": "个人效率时间管理与自我规划 核心期末综合自测",
-    "summary": "全面检验您对 个人效率时间管理与自我规划 所有阶段知识体系的掌握程度。",
+    "slug": "basic-exam",
+    "title": "个人生产力基础入门测验",
+    "summary": "覆盖 GTD 收集与两分钟法则、番茄工作法、四象限、二八法则等基础方法概念，适合初学者摸底。",
     "difficulty": "easy",
     "questionIds": [
       "mod-personal-productivity-q-1",
       "mod-personal-productivity-q-2",
       "mod-personal-productivity-q-3",
       "mod-personal-productivity-q-4",
-      "mod-personal-productivity-q-5",
-      "mod-personal-productivity-q-6"
+      "mod-personal-productivity-q-15",
+      "mod-personal-productivity-q-19",
+      "mod-personal-productivity-q-20",
+      "mod-personal-productivity-q-23",
+      "mod-personal-productivity-q-24"
     ],
-    "timeLimitMinutes": 60,
+    "timeLimitMinutes": 15,
     "passingScore": 60
   },
   {
     "id": "mod-personal-productivity-exam-2",
-    "slug": "basic-exam",
-    "title": "个人效率时间管理与自我规划 基础概念快速评估",
-    "summary": "针对核心基础概念的摸底评估，题目精炼。",
-    "difficulty": "easy",
+    "slug": "advanced-exam",
+    "title": "个人生产力进阶强化测验",
+    "summary": "聚焦深度工作、时间块、帕金森定律、习惯回路、精力管理与每周回顾等进阶实践方法。",
+    "difficulty": "medium",
     "questionIds": [
-      "mod-personal-productivity-q-1",
-      "mod-personal-productivity-q-2",
-      "mod-personal-productivity-q-3"
+      "mod-personal-productivity-q-5",
+      "mod-personal-productivity-q-6",
+      "mod-personal-productivity-q-7",
+      "mod-personal-productivity-q-8",
+      "mod-personal-productivity-q-10",
+      "mod-personal-productivity-q-11",
+      "mod-personal-productivity-q-13",
+      "mod-personal-productivity-q-16",
+      "mod-personal-productivity-q-21",
+      "mod-personal-productivity-q-22"
+    ],
+    "timeLimitMinutes": 20,
+    "passingScore": 60
+  },
+  {
+    "id": "mod-personal-productivity-exam-3",
+    "slug": "final-exam",
+    "title": "个人生产力综合模拟考试",
+    "summary": "综合考查注意力残留、心流条件、习惯设计、拖延对策与目标管理等全体系知识，模拟真实自我管理场景。",
+    "difficulty": "hard",
+    "questionIds": [
+      "mod-personal-productivity-q-3",
+      "mod-personal-productivity-q-5",
+      "mod-personal-productivity-q-8",
+      "mod-personal-productivity-q-9",
+      "mod-personal-productivity-q-11",
+      "mod-personal-productivity-q-12",
+      "mod-personal-productivity-q-14",
+      "mod-personal-productivity-q-16",
+      "mod-personal-productivity-q-17",
+      "mod-personal-productivity-q-18",
+      "mod-personal-productivity-q-21",
+      "mod-personal-productivity-q-22"
     ],
     "timeLimitMinutes": 30,
     "passingScore": 60
