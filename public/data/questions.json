@@ -32,7 +32,9 @@
     ],
     "difficulty": "easy",
     "chapter": "mod-personal-productivity-c-1",
-    "knowledge_points": [],
+    "knowledge_points": [
+      "pr-kp-0002"
+    ],
     "estimated_time": 2
   },
   {
@@ -103,8 +105,10 @@
       "优先级"
     ],
     "difficulty": "easy",
-    "chapter": "mod-personal-productivity-c-3",
-    "knowledge_points": [],
+    "chapter": "mod-personal-productivity-c-1",
+    "knowledge_points": [
+      "pr-kp-0006"
+    ],
     "estimated_time": 2
   },
   {
@@ -140,7 +144,9 @@
     ],
     "difficulty": "easy",
     "chapter": "mod-personal-productivity-c-1",
-    "knowledge_points": [],
+    "knowledge_points": [
+      "pr-kp-0002"
+    ],
     "estimated_time": 2
   },
   {
@@ -176,7 +182,9 @@
     ],
     "difficulty": "medium",
     "chapter": "mod-personal-productivity-c-2",
-    "knowledge_points": [],
+    "knowledge_points": [
+      "pr-kp-0005"
+    ],
     "estimated_time": 3
   },
   {
@@ -212,7 +220,9 @@
     ],
     "difficulty": "medium",
     "chapter": "mod-personal-productivity-c-3",
-    "knowledge_points": [],
+    "knowledge_points": [
+      "pr-kp-0001"
+    ],
     "estimated_time": 3
   },
   {
@@ -284,7 +294,9 @@
     ],
     "difficulty": "medium",
     "chapter": "mod-personal-productivity-c-2",
-    "knowledge_points": [],
+    "knowledge_points": [
+      "pr-kp-0007"
+    ],
     "estimated_time": 3
   },
   {
@@ -319,7 +331,7 @@
       "任务切换"
     ],
     "difficulty": "hard",
-    "chapter": "mod-personal-productivity-c-3",
+    "chapter": "mod-personal-productivity-c-2",
     "knowledge_points": [],
     "estimated_time": 3
   },
@@ -356,7 +368,10 @@
     ],
     "difficulty": "medium",
     "chapter": "mod-personal-productivity-c-1",
-    "knowledge_points": [],
+    "knowledge_points": [
+      "pr-kp-0002",
+      "pr-kp-0009"
+    ],
     "estimated_time": 3
   },
   {
@@ -390,8 +405,10 @@
       "精力管理"
     ],
     "difficulty": "medium",
-    "chapter": "mod-personal-productivity-c-2",
-    "knowledge_points": [],
+    "chapter": "mod-personal-productivity-c-3",
+    "knowledge_points": [
+      "pr-kp-0008"
+    ],
     "estimated_time": 3
   },
   {
@@ -426,8 +443,10 @@
       "行为设计"
     ],
     "difficulty": "hard",
-    "chapter": "mod-personal-productivity-c-3",
-    "knowledge_points": [],
+    "chapter": "mod-personal-productivity-c-2",
+    "knowledge_points": [
+      "pr-kp-0007"
+    ],
     "estimated_time": 4
   },
   {
@@ -462,8 +481,10 @@
       "每周回顾"
     ],
     "difficulty": "medium",
-    "chapter": "mod-personal-productivity-c-1",
-    "knowledge_points": [],
+    "chapter": "mod-personal-productivity-c-3",
+    "knowledge_points": [
+      "pr-kp-0002"
+    ],
     "estimated_time": 3
   },
   {
@@ -537,7 +558,9 @@
     ],
     "difficulty": "easy",
     "chapter": "mod-personal-productivity-c-3",
-    "knowledge_points": [],
+    "knowledge_points": [
+      "pr-kp-0002"
+    ],
     "estimated_time": 3
   },
   {
@@ -575,7 +598,9 @@
     ],
     "difficulty": "medium",
     "chapter": "mod-personal-productivity-c-1",
-    "knowledge_points": [],
+    "knowledge_points": [
+      "pr-kp-0005"
+    ],
     "estimated_time": 3
   },
   {
@@ -613,7 +638,9 @@
     ],
     "difficulty": "hard",
     "chapter": "mod-personal-productivity-c-2",
-    "knowledge_points": [],
+    "knowledge_points": [
+      "pr-kp-0009"
+    ],
     "estimated_time": 4
   },
   {
@@ -708,7 +735,9 @@
     ],
     "difficulty": "medium",
     "chapter": "mod-personal-productivity-c-3",
-    "knowledge_points": [],
+    "knowledge_points": [
+      "pr-kp-0007"
+    ],
     "estimated_time": 1
   },
   {
@@ -725,7 +754,7 @@
       "生产力度量"
     ],
     "difficulty": "medium",
-    "chapter": "mod-personal-productivity-c-1",
+    "chapter": "mod-personal-productivity-c-3",
     "knowledge_points": [],
     "estimated_time": 1
   },

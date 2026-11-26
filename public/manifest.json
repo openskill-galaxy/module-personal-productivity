@@ -1,6 +1,7 @@
 {
-  "short_name": "OpenSkill Module",
-  "name": "OpenSkill Galaxy — 学习自测模块",
+  "short_name": "个人效率时间管理与自我规",
+  "name": "OpenSkill Galaxy — 个人效率时间管理与自我规划",
+  "description": "面向学生开发者和求职者的时间管理目标拆解GTD OKR优先级判断周计划月计划习惯养成精力管理个人看板与长期自我规划训练。",
   "icons": [
     {
       "src": "favicon.svg",
@@ -8,9 +9,10 @@
       "sizes": "any"
     }
   ],
-  "start_url": ".",
-  "background_color": "#fbfbfd",
-  "theme_color": "#4f46e5",
+  "start_url": "/module-personal-productivity/",
+  "scope": "/module-personal-productivity/",
+  "background_color": "#f4f5fa",
+  "theme_color": "#3039c9",
   "display": "standalone",
   "orientation": "portrait"
 }
